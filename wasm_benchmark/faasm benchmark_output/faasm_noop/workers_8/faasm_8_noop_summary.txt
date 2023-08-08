@@ -1,0 +1,70 @@
+06:00:40 - Workers: 8 | App: noop | Total Requests: 100000 | Request concurrency: 4
+Time taken for tests: 45.701 seconds
+Requests per second: 2191.34 [#/sec]
+Time per request: 3.651 [ms]
+Time per request (across all concurrent requests): 1.825 [ms]
+Transfer rate: 601.34 [Kbytes/sec] received
+
+06:02:13 - Workers: 8 | App: noop | Total Requests: 100000 | Request concurrency: 8
+Time taken for tests: 22.364 seconds
+Requests per second: 4474.4 [#/sec]
+Time per request: 3.576 [ms]
+Time per request (across all concurrent requests): 0.894 [ms]
+Transfer rate: 1227.83 [Kbytes/sec] received
+
+06:03:23 - Workers: 8 | App: noop | Total Requests: 100000 | Request concurrency: 12
+Time taken for tests: 15.463 seconds
+Requests per second: 6468.56 [#/sec]
+Time per request: 3.711 [ms]
+Time per request (across all concurrent requests): 0.618 [ms]
+Transfer rate: 1775.07 [Kbytes/sec] received
+
+06:04:26 - Workers: 8 | App: noop | Total Requests: 100000 | Request concurrency: 16
+Time taken for tests: 12.442 seconds
+Requests per second: 8041.66 [#/sec]
+Time per request: 3.98 [ms]
+Time per request (across all concurrent requests): 0.498 [ms]
+Transfer rate: 2206.74 [Kbytes/sec] received
+
+06:05:25 - Workers: 8 | App: noop | Total Requests: 100000 | Request concurrency: 20
+Time taken for tests: 0 seconds
+Requests per second: 0 [#/sec]
+Time per request: 0 [ms]
+Time per request (across all concurrent requests): 0 [ms]
+Transfer rate: 0 [Kbytes/sec] received
+
+*********** Summary over 1104 observations  ************
+Min of CPU: 92.86%
+Max of CPU: 799.66%
+Avg of CPU: 736.02%
+Min of Virt Mem: 123.06 Mb
+Max of Virt Mem: 515237.00 Mb
+Avg of Virt Mem: 310762.74 Mb
+Min of Phys Mem: 42.75 Mb
+Max of Phys Mem: 1022.76 Mb
+Avg of Phys Mem: 673.34 Mb
+
+Concurrency 4
+	CPU Min/Max/Avg: 93.33% / 799.66% / 756.97%
+	VMem Min/Max/Avg: 3197.15 Mb / 498892.90 Mb / 366012.53 Mb
+	PMem Min/Max/Avg: 56.19 Mb / 859.96 Mb / 728.58 Mb
+Concurrency 8
+	CPU Min/Max/Avg: 93.75% / 799.62% / 729.24%
+	VMem Min/Max/Avg: 2212.90 Mb / 505256.40 Mb / 290903.78 Mb
+	PMem Min/Max/Avg: 54.07 Mb / 1022.76 Mb / 660.19 Mb
+Concurrency 12
+	CPU Min/Max/Avg: 93.75% / 799.59% / 706.94%
+	VMem Min/Max/Avg: 2420.93 Mb / 503832.20 Mb / 249746.18 Mb
+	PMem Min/Max/Avg: 55.50 Mb / 932.20 Mb / 612.60 Mb
+Concurrency 16
+	CPU Min/Max/Avg: 92.86% / 799.64% / 727.09%
+	VMem Min/Max/Avg: 2212.90 Mb / 515237.00 Mb / 231974.45 Mb
+	PMem Min/Max/Avg: 54.20 Mb / 879.65 Mb / 604.56 Mb
+Concurrency 20
+	CPU Min/Max/Avg: 100.00% / 794.34% / 735.91%
+	VMem Min/Max/Avg: 123.06 Mb / 512031.50 Mb / 337586.23 Mb
+	PMem Min/Max/Avg: 42.75 Mb / 991.81 Mb / 686.51 Mb
+
+
+
+

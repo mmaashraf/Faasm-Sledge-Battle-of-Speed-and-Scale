@@ -1,0 +1,582 @@
+03:14:56 - Workers: 32 | App: empty_concurrency | Total Requests: 1000 | Request concurrency: 1
+Time taken for tests: 1.670 seconds
+Requests per second: 199.99 [#/sec]
+Time per request: 5 [ms]
+Time per request (across all concurrent requests): 5 [ms]
+Transfer rate: 19.34 [Kbytes/sec] received
+
+03:14:58 - Workers: 32 | App: empty_concurrency | Total Requests: 1000 | Request concurrency: 2
+Time taken for tests: 0.831 seconds
+Requests per second: 401.84 [#/sec]
+Time per request: 4.977 [ms]
+Time per request (across all concurrent requests): 2.489 [ms]
+Transfer rate: 38.85 [Kbytes/sec] received
+
+03:14:58 - Workers: 32 | App: empty_concurrency | Total Requests: 1000 | Request concurrency: 4
+Time taken for tests: 0.826 seconds
+Requests per second: 404.38 [#/sec]
+Time per request: 4.946 [ms]
+Time per request (across all concurrent requests): 2.473 [ms]
+Transfer rate: 39.1 [Kbytes/sec] received
+
+03:14:59 - Workers: 32 | App: empty_concurrency | Total Requests: 1000 | Request concurrency: 8
+Time taken for tests: 0.412 seconds
+Requests per second: 810.28 [#/sec]
+Time per request: 4.937 [ms]
+Time per request (across all concurrent requests): 1.234 [ms]
+Transfer rate: 78.34 [Kbytes/sec] received
+
+03:15:00 - Workers: 32 | App: empty_concurrency | Total Requests: 1000 | Request concurrency: 16
+Time taken for tests: 0.211 seconds
+Requests per second: 1583.47 [#/sec]
+Time per request: 3.789 [ms]
+Time per request (across all concurrent requests): 0.632 [ms]
+Transfer rate: 153.09 [Kbytes/sec] received
+
+03:15:00 - Workers: 32 | App: empty_concurrency | Total Requests: 1000 | Request concurrency: 32
+Time taken for tests: 0.055 seconds
+Requests per second: 6031.49 [#/sec]
+Time per request: 1.99 [ms]
+Time per request (across all concurrent requests): 0.166 [ms]
+Transfer rate: 583.12 [Kbytes/sec] received
+
+03:15:00 - Workers: 32 | App: empty_concurrency | Total Requests: 1000 | Request concurrency: 64
+Time taken for tests: 0.095 seconds
+Requests per second: 7049.13 [#/sec]
+Time per request: 12.199 [ms]
+Time per request (across all concurrent requests): 0.567 [ms]
+Transfer rate: 681.51 [Kbytes/sec] received
+
+03:15:00 - Workers: 32 | App: empty_concurrency | Total Requests: 1000 | Request concurrency: 128
+Time taken for tests: 0.080 seconds
+Requests per second: 12501.1 [#/sec]
+Time per request: 30.716 [ms]
+Time per request (across all concurrent requests): 0.72 [ms]
+Transfer rate: 1208.61 [Kbytes/sec] received
+
+03:15:00 - Workers: 32 | App: empty_concurrency | Total Requests: 1000 | Request concurrency: 256
+Time taken for tests: 0.049 seconds
+Requests per second: 20744.9 [#/sec]
+Time per request: 37.032 [ms]
+Time per request (across all concurrent requests): 0.434 [ms]
+Transfer rate: 2005.6 [Kbytes/sec] received
+
+03:15:00 - Workers: 32 | App: empty_concurrency | Total Requests: 1000 | Request concurrency: 512
+Time taken for tests: 0.231 seconds
+Requests per second: 4332.09 [#/sec]
+Time per request: 354.561 [ms]
+Time per request (across all concurrent requests): 2.078 [ms]
+Transfer rate: 418.82 [Kbytes/sec] received
+
+03:15:01 - Workers: 32 | App: empty_concurrency | Total Requests: 1000 | Request concurrency: 1000
+Time taken for tests: 0.225 seconds
+Requests per second: 4483.27 [#/sec]
+Time per request: 669.178 [ms]
+Time per request (across all concurrent requests): 2.007 [ms]
+Transfer rate: 433.45 [Kbytes/sec] received
+
+03:15:01 - Workers: 32 | App: empty_concurrency | Total Requests: 1000 | Request concurrency: 1000
+Time taken for tests: 0.229 seconds
+Requests per second: 4409.89 [#/sec]
+Time per request: 680.357 [ms]
+Time per request (across all concurrent requests): 2.04 [ms]
+Transfer rate: 426.35 [Kbytes/sec] received
+
+*********** Summary over 28 observations  ************
+Min of CPU: 146.70
+Max of CPU: 368.80
+Avg of CPU: 216.47
+Min of Memory (MBs): 6.80
+Max of Memory (MBs): 50.52
+Avg of Memory (MBs): 21.16
+
+
+
+03:15:03 - Workers: 32 | App: empty_concurrency | Total Requests: 10000 | Request concurrency: 1
+Time taken for tests: 16.528 seconds
+Requests per second: 201.71 [#/sec]
+Time per request: 4.958 [ms]
+Time per request (across all concurrent requests): 4.958 [ms]
+Transfer rate: 19.5 [Kbytes/sec] received
+
+03:15:20 - Workers: 32 | App: empty_concurrency | Total Requests: 10000 | Request concurrency: 2
+Time taken for tests: 8.225 seconds
+Requests per second: 405.33 [#/sec]
+Time per request: 4.934 [ms]
+Time per request (across all concurrent requests): 2.467 [ms]
+Transfer rate: 39.19 [Kbytes/sec] received
+
+03:15:28 - Workers: 32 | App: empty_concurrency | Total Requests: 10000 | Request concurrency: 4
+Time taken for tests: 8.236 seconds
+Requests per second: 404.83 [#/sec]
+Time per request: 4.94 [ms]
+Time per request (across all concurrent requests): 2.47 [ms]
+Transfer rate: 39.14 [Kbytes/sec] received
+
+03:15:36 - Workers: 32 | App: empty_concurrency | Total Requests: 10000 | Request concurrency: 8
+Time taken for tests: 4.134 seconds
+Requests per second: 806.51 [#/sec]
+Time per request: 4.96 [ms]
+Time per request (across all concurrent requests): 1.24 [ms]
+Transfer rate: 77.97 [Kbytes/sec] received
+
+03:15:41 - Workers: 32 | App: empty_concurrency | Total Requests: 10000 | Request concurrency: 16
+Time taken for tests: 2.412 seconds
+Requests per second: 1382.36 [#/sec]
+Time per request: 4.34 [ms]
+Time per request (across all concurrent requests): 0.723 [ms]
+Transfer rate: 133.65 [Kbytes/sec] received
+
+03:15:43 - Workers: 32 | App: empty_concurrency | Total Requests: 10000 | Request concurrency: 32
+Time taken for tests: 0.643 seconds
+Requests per second: 5182.64 [#/sec]
+Time per request: 2.315 [ms]
+Time per request (across all concurrent requests): 0.193 [ms]
+Transfer rate: 501.06 [Kbytes/sec] received
+
+03:15:44 - Workers: 32 | App: empty_concurrency | Total Requests: 10000 | Request concurrency: 64
+Time taken for tests: 0.405 seconds
+Requests per second: 16578 [#/sec]
+Time per request: 5.187 [ms]
+Time per request (across all concurrent requests): 0.241 [ms]
+Transfer rate: 1602.75 [Kbytes/sec] received
+
+03:15:44 - Workers: 32 | App: empty_concurrency | Total Requests: 10000 | Request concurrency: 128
+Time taken for tests: 0.297 seconds
+Requests per second: 11227.1 [#/sec]
+Time per request: 3.919 [ms]
+Time per request (across all concurrent requests): 0.089 [ms]
+Transfer rate: 1085.43 [Kbytes/sec] received
+
+03:15:45 - Workers: 32 | App: empty_concurrency | Total Requests: 10000 | Request concurrency: 256
+Time taken for tests: 0.322 seconds
+Requests per second: 10368.4 [#/sec]
+Time per request: 8.294 [ms]
+Time per request (across all concurrent requests): 0.096 [ms]
+Transfer rate: 1002.42 [Kbytes/sec] received
+
+03:15:45 - Workers: 32 | App: empty_concurrency | Total Requests: 10000 | Request concurrency: 512
+Time taken for tests: 0.302 seconds
+Requests per second: 23519.8 [#/sec]
+Time per request: 29.198 [ms]
+Time per request (across all concurrent requests): 0.17 [ms]
+Transfer rate: 2273.88 [Kbytes/sec] received
+
+03:15:45 - Workers: 32 | App: empty_concurrency | Total Requests: 10000 | Request concurrency: 1024
+Time taken for tests: 0.422 seconds
+Requests per second: 7900.87 [#/sec]
+Time per request: 43.286 [ms]
+Time per request (across all concurrent requests): 0.127 [ms]
+Transfer rate: 763.85 [Kbytes/sec] received
+
+03:15:46 - Workers: 32 | App: empty_concurrency | Total Requests: 10000 | Request concurrency: 2048
+Time taken for tests: 0.865 seconds
+Requests per second: 18850.9 [#/sec]
+Time per request: 359.366 [ms]
+Time per request (across all concurrent requests): 0.526 [ms]
+Transfer rate: 1822.49 [Kbytes/sec] received
+
+03:15:47 - Workers: 32 | App: empty_concurrency | Total Requests: 10000 | Request concurrency: 4096
+Time taken for tests: 0.490 seconds
+Requests per second: 20660.9 [#/sec]
+Time per request: 594.792 [ms]
+Time per request (across all concurrent requests): 0.436 [ms]
+Transfer rate: 1997.48 [Kbytes/sec] received
+
+03:15:47 - Workers: 32 | App: empty_concurrency | Total Requests: 10000 | Request concurrency: 8192
+Time taken for tests: 0.519 seconds
+Requests per second: 12846.8 [#/sec]
+Time per request: 850.333 [ms]
+Time per request (across all concurrent requests): 0.312 [ms]
+Transfer rate: 1242.02 [Kbytes/sec] received
+
+*********** Summary over 222 observations  ************
+Min of CPU: 140.00
+Max of CPU: 1387.00
+Avg of CPU: 247.73
+Min of Memory (MBs): 50.52
+Max of Memory (MBs): 120.97
+Avg of Memory (MBs): 52.40
+
+
+
+03:15:50 - Workers: 32 | App: empty_concurrency | Total Requests: 50000 | Request concurrency: 1
+Time taken for tests: 82.966 seconds
+Requests per second: 200.9 [#/sec]
+Time per request: 4.978 [ms]
+Time per request (across all concurrent requests): 4.978 [ms]
+Transfer rate: 19.42 [Kbytes/sec] received
+
+03:17:13 - Workers: 32 | App: empty_concurrency | Total Requests: 50000 | Request concurrency: 2
+Time taken for tests: 41.388 seconds
+Requests per second: 402.72 [#/sec]
+Time per request: 4.966 [ms]
+Time per request (across all concurrent requests): 2.483 [ms]
+Transfer rate: 38.93 [Kbytes/sec] received
+
+03:17:54 - Workers: 32 | App: empty_concurrency | Total Requests: 50000 | Request concurrency: 4
+Time taken for tests: 41.016 seconds
+Requests per second: 406.38 [#/sec]
+Time per request: 4.922 [ms]
+Time per request (across all concurrent requests): 2.461 [ms]
+Transfer rate: 39.29 [Kbytes/sec] received
+
+03:18:36 - Workers: 32 | App: empty_concurrency | Total Requests: 50000 | Request concurrency: 8
+Time taken for tests: 20.567 seconds
+Requests per second: 810.43 [#/sec]
+Time per request: 4.936 [ms]
+Time per request (across all concurrent requests): 1.234 [ms]
+Transfer rate: 78.35 [Kbytes/sec] received
+
+03:18:56 - Workers: 32 | App: empty_concurrency | Total Requests: 50000 | Request concurrency: 16
+Time taken for tests: 11.715 seconds
+Requests per second: 1422.81 [#/sec]
+Time per request: 4.217 [ms]
+Time per request (across all concurrent requests): 0.703 [ms]
+Transfer rate: 137.56 [Kbytes/sec] received
+
+03:19:08 - Workers: 32 | App: empty_concurrency | Total Requests: 50000 | Request concurrency: 32
+Time taken for tests: 2.853 seconds
+Requests per second: 5842.63 [#/sec]
+Time per request: 2.054 [ms]
+Time per request (across all concurrent requests): 0.171 [ms]
+Transfer rate: 564.86 [Kbytes/sec] received
+
+03:19:11 - Workers: 32 | App: empty_concurrency | Total Requests: 50000 | Request concurrency: 64
+Time taken for tests: 2.294 seconds
+Requests per second: 14541.6 [#/sec]
+Time per request: 5.914 [ms]
+Time per request (across all concurrent requests): 0.275 [ms]
+Transfer rate: 1405.87 [Kbytes/sec] received
+
+03:19:13 - Workers: 32 | App: empty_concurrency | Total Requests: 50000 | Request concurrency: 128
+Time taken for tests: 1.449 seconds
+Requests per second: 11502 [#/sec]
+Time per request: 3.825 [ms]
+Time per request (across all concurrent requests): 0.087 [ms]
+Transfer rate: 1112.01 [Kbytes/sec] received
+
+03:19:15 - Workers: 32 | App: empty_concurrency | Total Requests: 50000 | Request concurrency: 256
+Time taken for tests: 1.583 seconds
+Requests per second: 34691.1 [#/sec]
+Time per request: 22.321 [ms]
+Time per request (across all concurrent requests): 0.262 [ms]
+Transfer rate: 3353.92 [Kbytes/sec] received
+
+03:19:16 - Workers: 32 | App: empty_concurrency | Total Requests: 50000 | Request concurrency: 512
+Time taken for tests: 1.607 seconds
+Requests per second: 31704.6 [#/sec]
+Time per request: 48.482 [ms]
+Time per request (across all concurrent requests): 0.283 [ms]
+Transfer rate: 3065.18 [Kbytes/sec] received
+
+03:19:18 - Workers: 32 | App: empty_concurrency | Total Requests: 50000 | Request concurrency: 1024
+Time taken for tests: 1.854 seconds
+Requests per second: 29058.8 [#/sec]
+Time per request: 106.007 [ms]
+Time per request (across all concurrent requests): 0.311 [ms]
+Transfer rate: 2809.4 [Kbytes/sec] received
+
+03:19:20 - Workers: 32 | App: empty_concurrency | Total Requests: 50000 | Request concurrency: 2048
+Time taken for tests: 1.567 seconds
+Requests per second: 10640 [#/sec]
+Time per request: 64.286 [ms]
+Time per request (across all concurrent requests): 0.094 [ms]
+Transfer rate: 1028.67 [Kbytes/sec] received
+
+03:19:22 - Workers: 32 | App: empty_concurrency | Total Requests: 50000 | Request concurrency: 4096
+Time taken for tests: 2.076 seconds
+Requests per second: 29653.8 [#/sec]
+Time per request: 233.241 [ms]
+Time per request (across all concurrent requests): 0.171 [ms]
+Transfer rate: 2866.91 [Kbytes/sec] received
+
+03:19:24 - Workers: 32 | App: empty_concurrency | Total Requests: 50000 | Request concurrency: 8192
+Time taken for tests: 6.700 seconds
+Requests per second: 7463.81 [#/sec]
+Time per request: 3292.69 [ms]
+Time per request (across all concurrent requests): 1.206 [ms]
+Transfer rate: 721.6 [Kbytes/sec] received
+
+03:19:31 - Workers: 32 | App: empty_concurrency | Total Requests: 50000 | Request concurrency: 16384
+Time taken for tests: 13.471 seconds
+Requests per second: 2503.47 [#/sec]
+Time per request: 8727.45 [ms]
+Time per request (across all concurrent requests): 1.598 [ms]
+Transfer rate: 242.03 [Kbytes/sec] received
+
+03:19:44 - Workers: 32 | App: empty_concurrency | Total Requests: 50000 | Request concurrency: 20000
+Time taken for tests: 16.833 seconds
+Requests per second: 990.19 [#/sec]
+Time per request: 6734.03 [ms]
+Time per request (across all concurrent requests): 1.01 [ms]
+Transfer rate: 95.73 [Kbytes/sec] received
+
+03:20:01 - Workers: 32 | App: empty_concurrency | Total Requests: 50000 | Request concurrency: 20000
+Time taken for tests: 19.484 seconds
+Requests per second: 855.49 [#/sec]
+Time per request: 7794.36 [ms]
+Time per request (across all concurrent requests): 1.169 [ms]
+Transfer rate: 82.71 [Kbytes/sec] received
+
+*********** Summary over 1337 observations  ************
+Min of CPU: 126.70
+Max of CPU: 1293.00
+Avg of CPU: 251.10
+Min of Memory (MBs): 120.97
+Max of Memory (MBs): 283.75
+Avg of Memory (MBs): 145.13
+
+
+
+03:20:23 - Workers: 32 | App: empty_concurrency | Total Requests: 100000 | Request concurrency: 1
+Time taken for tests: 166.256 seconds
+Requests per second: 200.5 [#/sec]
+Time per request: 4.988 [ms]
+Time per request (across all concurrent requests): 4.988 [ms]
+Transfer rate: 19.38 [Kbytes/sec] received
+
+03:23:09 - Workers: 32 | App: empty_concurrency | Total Requests: 100000 | Request concurrency: 2
+Time taken for tests: 82.819 seconds
+Requests per second: 402.49 [#/sec]
+Time per request: 4.969 [ms]
+Time per request (across all concurrent requests): 2.485 [ms]
+Transfer rate: 38.91 [Kbytes/sec] received
+
+03:24:32 - Workers: 32 | App: empty_concurrency | Total Requests: 100000 | Request concurrency: 4
+Time taken for tests: 81.407 seconds
+Requests per second: 409.47 [#/sec]
+Time per request: 4.884 [ms]
+Time per request (across all concurrent requests): 2.442 [ms]
+Transfer rate: 39.59 [Kbytes/sec] received
+
+03:25:53 - Workers: 32 | App: empty_concurrency | Total Requests: 100000 | Request concurrency: 8
+Time taken for tests: 41.166 seconds
+Requests per second: 809.75 [#/sec]
+Time per request: 4.94 [ms]
+Time per request (across all concurrent requests): 1.235 [ms]
+Transfer rate: 78.29 [Kbytes/sec] received
+
+03:26:35 - Workers: 32 | App: empty_concurrency | Total Requests: 100000 | Request concurrency: 16
+Time taken for tests: 22.162 seconds
+Requests per second: 1504.08 [#/sec]
+Time per request: 3.989 [ms]
+Time per request (across all concurrent requests): 0.665 [ms]
+Transfer rate: 145.41 [Kbytes/sec] received
+
+03:26:57 - Workers: 32 | App: empty_concurrency | Total Requests: 100000 | Request concurrency: 32
+Time taken for tests: 5.257 seconds
+Requests per second: 6340.39 [#/sec]
+Time per request: 1.893 [ms]
+Time per request (across all concurrent requests): 0.158 [ms]
+Transfer rate: 612.99 [Kbytes/sec] received
+
+03:27:02 - Workers: 32 | App: empty_concurrency | Total Requests: 100000 | Request concurrency: 64
+Time taken for tests: 3.933 seconds
+Requests per second: 26626.2 [#/sec]
+Time per request: 7.225 [ms]
+Time per request (across all concurrent requests): 0.338 [ms]
+Transfer rate: 2574.22 [Kbytes/sec] received
+
+03:27:06 - Workers: 32 | App: empty_concurrency | Total Requests: 100000 | Request concurrency: 128
+Time taken for tests: 2.623 seconds
+Requests per second: 12709.3 [#/sec]
+Time per request: 3.462 [ms]
+Time per request (across all concurrent requests): 0.079 [ms]
+Transfer rate: 1228.73 [Kbytes/sec] received
+
+03:27:09 - Workers: 32 | App: empty_concurrency | Total Requests: 100000 | Request concurrency: 256
+Time taken for tests: 2.708 seconds
+Requests per second: 25602.9 [#/sec]
+Time per request: 13.38 [ms]
+Time per request (across all concurrent requests): 0.156 [ms]
+Transfer rate: 2475.29 [Kbytes/sec] received
+
+03:27:12 - Workers: 32 | App: empty_concurrency | Total Requests: 100000 | Request concurrency: 512
+Time taken for tests: 2.808 seconds
+Requests per second: 24185.9 [#/sec]
+Time per request: 28.293 [ms]
+Time per request (across all concurrent requests): 0.165 [ms]
+Transfer rate: 2338.28 [Kbytes/sec] received
+
+03:27:15 - Workers: 32 | App: empty_concurrency | Total Requests: 100000 | Request concurrency: 1024
+Time taken for tests: 2.740 seconds
+Requests per second: 24337.7 [#/sec]
+Time per request: 56.127 [ms]
+Time per request (across all concurrent requests): 0.164 [ms]
+Transfer rate: 2352.96 [Kbytes/sec] received
+
+03:27:18 - Workers: 32 | App: empty_concurrency | Total Requests: 100000 | Request concurrency: 2048
+Time taken for tests: 3.315 seconds
+Requests per second: 38602.5 [#/sec]
+Time per request: 168.582 [ms]
+Time per request (across all concurrent requests): 0.246 [ms]
+Transfer rate: 3732.08 [Kbytes/sec] received
+
+03:27:21 - Workers: 32 | App: empty_concurrency | Total Requests: 100000 | Request concurrency: 4096
+Time taken for tests: 3.323 seconds
+Requests per second: 21422.7 [#/sec]
+Time per request: 256.002 [ms]
+Time per request (across all concurrent requests): 0.188 [ms]
+Transfer rate: 2071.14 [Kbytes/sec] received
+
+03:27:24 - Workers: 32 | App: empty_concurrency | Total Requests: 100000 | Request concurrency: 8192
+Time taken for tests: 53.208 seconds
+Requests per second: 1879.44 [#/sec]
+Time per request: 13076.3 [ms]
+Time per request (across all concurrent requests): 4.788 [ms]
+Transfer rate: 181.71 [Kbytes/sec] received
+
+03:28:18 - Workers: 32 | App: empty_concurrency | Total Requests: 100000 | Request concurrency: 16384
+Time taken for tests: 26.262 seconds
+Requests per second: 1269.29 [#/sec]
+Time per request: 4303.19 [ms]
+Time per request (across all concurrent requests): 0.788 [ms]
+Transfer rate: 122.71 [Kbytes/sec] received
+
+03:28:44 - Workers: 32 | App: empty_concurrency | Total Requests: 100000 | Request concurrency: 20000
+Time taken for tests: 38.247 seconds
+Requests per second: 871.54 [#/sec]
+Time per request: 7650.83 [ms]
+Time per request (across all concurrent requests): 1.147 [ms]
+Transfer rate: 84.26 [Kbytes/sec] received
+
+*********** Summary over 2669 observations  ************
+Min of CPU: 137.50
+Max of CPU: 1420.00
+Avg of CPU: 243.69
+Min of Memory (MBs): 120.97
+Max of Memory (MBs): 314.69
+Avg of Memory (MBs): 168.50
+
+
+
+03:29:25 - Workers: 32 | App: empty_concurrency | Total Requests: 150000 | Request concurrency: 1
+Time taken for tests: 249.473 seconds
+Requests per second: 200.42 [#/sec]
+Time per request: 4.989 [ms]
+Time per request (across all concurrent requests): 4.989 [ms]
+Transfer rate: 19.38 [Kbytes/sec] received
+
+03:33:34 - Workers: 32 | App: empty_concurrency | Total Requests: 150000 | Request concurrency: 2
+Time taken for tests: 124.179 seconds
+Requests per second: 402.64 [#/sec]
+Time per request: 4.967 [ms]
+Time per request (across all concurrent requests): 2.484 [ms]
+Transfer rate: 38.93 [Kbytes/sec] received
+
+03:35:38 - Workers: 32 | App: empty_concurrency | Total Requests: 150000 | Request concurrency: 4
+Time taken for tests: 120.528 seconds
+Requests per second: 414.84 [#/sec]
+Time per request: 4.821 [ms]
+Time per request (across all concurrent requests): 2.411 [ms]
+Transfer rate: 40.11 [Kbytes/sec] received
+
+03:37:39 - Workers: 32 | App: empty_concurrency | Total Requests: 150000 | Request concurrency: 8
+Time taken for tests: 61.397 seconds
+Requests per second: 814.38 [#/sec]
+Time per request: 4.912 [ms]
+Time per request (across all concurrent requests): 1.228 [ms]
+Transfer rate: 78.73 [Kbytes/sec] received
+
+03:38:41 - Workers: 32 | App: empty_concurrency | Total Requests: 150000 | Request concurrency: 16
+Time taken for tests: 35.272 seconds
+Requests per second: 1417.56 [#/sec]
+Time per request: 4.233 [ms]
+Time per request (across all concurrent requests): 0.705 [ms]
+Transfer rate: 137.05 [Kbytes/sec] received
+
+03:39:16 - Workers: 32 | App: empty_concurrency | Total Requests: 150000 | Request concurrency: 32
+Time taken for tests: 8.183 seconds
+Requests per second: 6110.22 [#/sec]
+Time per request: 1.964 [ms]
+Time per request (across all concurrent requests): 0.164 [ms]
+Transfer rate: 590.73 [Kbytes/sec] received
+
+03:39:24 - Workers: 32 | App: empty_concurrency | Total Requests: 150000 | Request concurrency: 64
+Time taken for tests: 5.107 seconds
+Requests per second: 9790.83 [#/sec]
+Time per request: 2.247 [ms]
+Time per request (across all concurrent requests): 0.102 [ms]
+Transfer rate: 946.57 [Kbytes/sec] received
+
+03:39:29 - Workers: 32 | App: empty_concurrency | Total Requests: 150000 | Request concurrency: 128
+Time taken for tests: 4.133 seconds
+Requests per second: 12097.1 [#/sec]
+Time per request: 3.637 [ms]
+Time per request (across all concurrent requests): 0.083 [ms]
+Transfer rate: 1169.55 [Kbytes/sec] received
+
+03:39:34 - Workers: 32 | App: empty_concurrency | Total Requests: 150000 | Request concurrency: 256
+Time taken for tests: 4.223 seconds
+Requests per second: 23803.3 [#/sec]
+Time per request: 14.368 [ms]
+Time per request (across all concurrent requests): 0.168 [ms]
+Transfer rate: 2301.3 [Kbytes/sec] received
+
+03:39:38 - Workers: 32 | App: empty_concurrency | Total Requests: 150000 | Request concurrency: 512
+Time taken for tests: 4.119 seconds
+Requests per second: 24580.2 [#/sec]
+Time per request: 27.834 [ms]
+Time per request (across all concurrent requests): 0.162 [ms]
+Transfer rate: 2376.4 [Kbytes/sec] received
+
+03:39:42 - Workers: 32 | App: empty_concurrency | Total Requests: 150000 | Request concurrency: 1024
+Time taken for tests: 3.971 seconds
+Requests per second: 25424.8 [#/sec]
+Time per request: 53.733 [ms]
+Time per request (across all concurrent requests): 0.157 [ms]
+Transfer rate: 2458.06 [Kbytes/sec] received
+
+03:39:46 - Workers: 32 | App: empty_concurrency | Total Requests: 150000 | Request concurrency: 2048
+Time taken for tests: 4.556 seconds
+Requests per second: 38033.5 [#/sec]
+Time per request: 166.739 [ms]
+Time per request (across all concurrent requests): 0.244 [ms]
+Transfer rate: 3677.07 [Kbytes/sec] received
+
+03:39:51 - Workers: 32 | App: empty_concurrency | Total Requests: 150000 | Request concurrency: 4096
+Time taken for tests: 4.010 seconds
+Requests per second: 24935.3 [#/sec]
+Time per request: 219.046 [ms]
+Time per request (across all concurrent requests): 0.16 [ms]
+Transfer rate: 2410.74 [Kbytes/sec] received
+
+03:39:55 - Workers: 32 | App: empty_concurrency | Total Requests: 150000 | Request concurrency: 8192
+Time taken for tests: 13.393 seconds
+Requests per second: 7466.76 [#/sec]
+Time per request: 1463.02 [ms]
+Time per request (across all concurrent requests): 0.536 [ms]
+Transfer rate: 721.88 [Kbytes/sec] received
+
+03:40:09 - Workers: 32 | App: empty_concurrency | Total Requests: 150000 | Request concurrency: 16384
+Time taken for tests: 40.647 seconds
+Requests per second: 2460.86 [#/sec]
+Time per request: 8877.38 [ms]
+Time per request (across all concurrent requests): 1.626 [ms]
+Transfer rate: 237.92 [Kbytes/sec] received
+
+03:40:49 - Workers: 32 | App: empty_concurrency | Total Requests: 150000 | Request concurrency: 20000
+Time taken for tests: 66.784 seconds
+Requests per second: 748.68 [#/sec]
+Time per request: 8906.29 [ms]
+Time per request (across all concurrent requests): 1.336 [ms]
+Transfer rate: 72.38 [Kbytes/sec] received
+
+03:41:56 - Workers: 32 | App: empty_concurrency | Total Requests: 150000 | Request concurrency: 20000
+Time taken for tests: 57.081 seconds
+Requests per second: 2633.95 [#/sec]
+Time per request: 22779.7 [ms]
+Time per request (across all concurrent requests): 3.417 [ms]
+Transfer rate: 254.65 [Kbytes/sec] received
+
+*********** Summary over 3995 observations  ************
+Min of CPU: 126.70
+Max of CPU: 1380.00
+Avg of CPU: 251.78
+Min of Memory (MBs): 120.97
+Max of Memory (MBs): 322.77
+Avg of Memory (MBs): 174.26
+
+
+

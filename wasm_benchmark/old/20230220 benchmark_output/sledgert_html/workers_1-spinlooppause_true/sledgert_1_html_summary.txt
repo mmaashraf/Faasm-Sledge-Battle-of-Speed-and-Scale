@@ -1,0 +1,637 @@
+17:02:18 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 5000 | Request concurrency: 2
+Time taken for tests: 4.175 seconds
+Requests per second: 399.54 [#/sec]
+Time per request: 5.006 [ms]
+Time per request (across all concurrent requests): 2.503 [ms]
+Transfer rate: 2900.96 [Kbytes/sec] received
+
+17:02:22 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 5000 | Request concurrency: 4
+Time taken for tests: 0.922 seconds
+Requests per second: 1809.31 [#/sec]
+Time per request: 1.105 [ms]
+Time per request (across all concurrent requests): 0.553 [ms]
+Transfer rate: 13136.9 [Kbytes/sec] received
+
+17:02:23 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 5000 | Request concurrency: 8
+Time taken for tests: 0.344 seconds
+Requests per second: 4854.3 [#/sec]
+Time per request: 0.824 [ms]
+Time per request (across all concurrent requests): 0.206 [ms]
+Transfer rate: 35245.8 [Kbytes/sec] received
+
+17:02:24 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 5000 | Request concurrency: 16
+Time taken for tests: 0.448 seconds
+Requests per second: 3724.75 [#/sec]
+Time per request: 1.611 [ms]
+Time per request (across all concurrent requests): 0.268 [ms]
+Transfer rate: 27044.5 [Kbytes/sec] received
+
+17:02:24 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 5000 | Request concurrency: 32
+Time taken for tests: 0.313 seconds
+Requests per second: 5324.67 [#/sec]
+Time per request: 2.254 [ms]
+Time per request (across all concurrent requests): 0.188 [ms]
+Transfer rate: 38661 [Kbytes/sec] received
+
+17:02:25 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 5000 | Request concurrency: 64
+Time taken for tests: 0.378 seconds
+Requests per second: 13340.1 [#/sec]
+Time per request: 14.391 [ms]
+Time per request (across all concurrent requests): 0.675 [ms]
+Transfer rate: 96858.7 [Kbytes/sec] received
+
+17:02:25 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 5000 | Request concurrency: 128
+Time taken for tests: 0.381 seconds
+Requests per second: 4383.36 [#/sec]
+Time per request: 10.038 [ms]
+Time per request (across all concurrent requests): 0.228 [ms]
+Transfer rate: 31826.5 [Kbytes/sec] received
+
+17:02:25 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 5000 | Request concurrency: 256
+Time taken for tests: 0.386 seconds
+Requests per second: 13013.1 [#/sec]
+Time per request: 59.018 [ms]
+Time per request (across all concurrent requests): 0.691 [ms]
+Transfer rate: 94484.4 [Kbytes/sec] received
+
+17:02:26 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 5000 | Request concurrency: 512
+Time taken for tests: 0.361 seconds
+Requests per second: 9265.55 [#/sec]
+Time per request: 73.823 [ms]
+Time per request (across all concurrent requests): 0.431 [ms]
+Transfer rate: 67274.8 [Kbytes/sec] received
+
+17:02:26 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 5000 | Request concurrency: 1024
+Time taken for tests: 0.417 seconds
+Requests per second: 12444 [#/sec]
+Time per request: 247.422 [ms]
+Time per request (across all concurrent requests): 0.725 [ms]
+Transfer rate: 90352.5 [Kbytes/sec] received
+
+17:02:27 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 5000 | Request concurrency: 2048
+Time taken for tests: 0.447 seconds
+Requests per second: 7483.71 [#/sec]
+Time per request: 365.066 [ms]
+Time per request (across all concurrent requests): 0.534 [ms]
+Transfer rate: 54337.3 [Kbytes/sec] received
+
+17:02:27 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 5000 | Request concurrency: 2048
+Time taken for tests: 0.416 seconds
+Requests per second: 12257.3 [#/sec]
+Time per request: 501.358 [ms]
+Time per request (across all concurrent requests): 0.735 [ms]
+Transfer rate: 88997.3 [Kbytes/sec] received
+
+17:02:28 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 5000 | Request concurrency: 2048
+Time taken for tests: 0.402 seconds
+Requests per second: 8328.55 [#/sec]
+Time per request: 328.034 [ms]
+Time per request (across all concurrent requests): 0.48 [ms]
+Transfer rate: 60471.4 [Kbytes/sec] received
+
+*********** Summary over 54 observations  ************
+Min of CPU: 0.00
+Max of CPU: 166.70
+Avg of CPU: 73.17
+Min of Memory (MBs): 4.62
+Max of Memory (MBs): 46.42
+Avg of Memory (MBs): 12.44
+
+
+
+17:02:30 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 10000 | Request concurrency: 2
+Time taken for tests: 8.352 seconds
+Requests per second: 399.19 [#/sec]
+Time per request: 5.01 [ms]
+Time per request (across all concurrent requests): 2.505 [ms]
+Transfer rate: 2898.38 [Kbytes/sec] received
+
+17:02:39 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 10000 | Request concurrency: 4
+Time taken for tests: 1.938 seconds
+Requests per second: 1720.29 [#/sec]
+Time per request: 1.163 [ms]
+Time per request (across all concurrent requests): 0.581 [ms]
+Transfer rate: 12490.6 [Kbytes/sec] received
+
+17:02:41 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 10000 | Request concurrency: 8
+Time taken for tests: 0.674 seconds
+Requests per second: 4945.38 [#/sec]
+Time per request: 0.809 [ms]
+Time per request (across all concurrent requests): 0.202 [ms]
+Transfer rate: 35907.1 [Kbytes/sec] received
+
+17:02:41 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 10000 | Request concurrency: 16
+Time taken for tests: 0.829 seconds
+Requests per second: 4020.76 [#/sec]
+Time per request: 1.492 [ms]
+Time per request (across all concurrent requests): 0.249 [ms]
+Transfer rate: 29193.7 [Kbytes/sec] received
+
+17:02:42 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 10000 | Request concurrency: 32
+Time taken for tests: 0.662 seconds
+Requests per second: 5034 [#/sec]
+Time per request: 2.384 [ms]
+Time per request (across all concurrent requests): 0.199 [ms]
+Transfer rate: 36550.5 [Kbytes/sec] received
+
+17:02:43 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 10000 | Request concurrency: 64
+Time taken for tests: 0.672 seconds
+Requests per second: 4958.04 [#/sec]
+Time per request: 4.437 [ms]
+Time per request (across all concurrent requests): 0.202 [ms]
+Transfer rate: 35999.1 [Kbytes/sec] received
+
+17:02:44 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 10000 | Request concurrency: 128
+Time taken for tests: 0.683 seconds
+Requests per second: 4881.28 [#/sec]
+Time per request: 9.014 [ms]
+Time per request (across all concurrent requests): 0.205 [ms]
+Transfer rate: 35441.8 [Kbytes/sec] received
+
+17:02:45 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 10000 | Request concurrency: 256
+Time taken for tests: 0.708 seconds
+Requests per second: 14160.2 [#/sec]
+Time per request: 54.237 [ms]
+Time per request (across all concurrent requests): 0.635 [ms]
+Transfer rate: 102814 [Kbytes/sec] received
+
+17:02:45 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 10000 | Request concurrency: 512
+Time taken for tests: 0.741 seconds
+Requests per second: 13551 [#/sec]
+Time per request: 113.349 [ms]
+Time per request (across all concurrent requests): 0.664 [ms]
+Transfer rate: 98390.6 [Kbytes/sec] received
+
+17:02:46 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 10000 | Request concurrency: 1024
+Time taken for tests: 0.751 seconds
+Requests per second: 13443.4 [#/sec]
+Time per request: 228.542 [ms]
+Time per request (across all concurrent requests): 0.669 [ms]
+Transfer rate: 97609.1 [Kbytes/sec] received
+
+17:02:47 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 10000 | Request concurrency: 2048
+Time taken for tests: 0.753 seconds
+Requests per second: 4425.87 [#/sec]
+Time per request: 154.546 [ms]
+Time per request (across all concurrent requests): 0.226 [ms]
+Transfer rate: 32135.1 [Kbytes/sec] received
+
+17:02:48 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 10000 | Request concurrency: 2048
+Time taken for tests: 0.773 seconds
+Requests per second: 12976.7 [#/sec]
+Time per request: 473.469 [ms]
+Time per request (across all concurrent requests): 0.694 [ms]
+Transfer rate: 94220.3 [Kbytes/sec] received
+
+*********** Summary over 96 observations  ************
+Min of CPU: 0.00
+Max of CPU: 160.00
+Avg of CPU: 72.98
+Min of Memory (MBs): 22.75
+Max of Memory (MBs): 46.96
+Avg of Memory (MBs): 24.84
+
+
+
+17:02:51 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 20000 | Request concurrency: 2
+Time taken for tests: 16.698 seconds
+Requests per second: 399.32 [#/sec]
+Time per request: 5.008 [ms]
+Time per request (across all concurrent requests): 2.504 [ms]
+Transfer rate: 2899.39 [Kbytes/sec] received
+
+17:03:07 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 20000 | Request concurrency: 4
+Time taken for tests: 3.939 seconds
+Requests per second: 1693.02 [#/sec]
+Time per request: 1.181 [ms]
+Time per request (across all concurrent requests): 0.591 [ms]
+Transfer rate: 12292.6 [Kbytes/sec] received
+
+17:03:11 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 20000 | Request concurrency: 8
+Time taken for tests: 1.226 seconds
+Requests per second: 5439.21 [#/sec]
+Time per request: 0.735 [ms]
+Time per request (across all concurrent requests): 0.184 [ms]
+Transfer rate: 39492.7 [Kbytes/sec] received
+
+17:03:13 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 20000 | Request concurrency: 16
+Time taken for tests: 1.710 seconds
+Requests per second: 3898.95 [#/sec]
+Time per request: 1.539 [ms]
+Time per request (across all concurrent requests): 0.256 [ms]
+Transfer rate: 28309.3 [Kbytes/sec] received
+
+17:03:15 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 20000 | Request concurrency: 32
+Time taken for tests: 1.447 seconds
+Requests per second: 4608.97 [#/sec]
+Time per request: 2.604 [ms]
+Time per request (across all concurrent requests): 0.217 [ms]
+Transfer rate: 33464.5 [Kbytes/sec] received
+
+17:03:16 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 20000 | Request concurrency: 64
+Time taken for tests: 1.397 seconds
+Requests per second: 4772.09 [#/sec]
+Time per request: 4.61 [ms]
+Time per request (across all concurrent requests): 0.21 [ms]
+Transfer rate: 34648.9 [Kbytes/sec] received
+
+17:03:18 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 20000 | Request concurrency: 128
+Time taken for tests: 1.338 seconds
+Requests per second: 4982.14 [#/sec]
+Time per request: 8.832 [ms]
+Time per request (across all concurrent requests): 0.201 [ms]
+Transfer rate: 36174 [Kbytes/sec] received
+
+17:03:19 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 20000 | Request concurrency: 256
+Time taken for tests: 1.389 seconds
+Requests per second: 16831.1 [#/sec]
+Time per request: 46.474 [ms]
+Time per request (across all concurrent requests): 0.544 [ms]
+Transfer rate: 122206 [Kbytes/sec] received
+
+17:03:20 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 20000 | Request concurrency: 512
+Time taken for tests: 1.436 seconds
+Requests per second: 14051.7 [#/sec]
+Time per request: 109.326 [ms]
+Time per request (across all concurrent requests): 0.64 [ms]
+Transfer rate: 102026 [Kbytes/sec] received
+
+17:03:22 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 20000 | Request concurrency: 1024
+Time taken for tests: 1.470 seconds
+Requests per second: 13722.4 [#/sec]
+Time per request: 223.882 [ms]
+Time per request (across all concurrent requests): 0.656 [ms]
+Transfer rate: 99634.7 [Kbytes/sec] received
+
+17:03:23 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 20000 | Request concurrency: 2048
+Time taken for tests: 1.515 seconds
+Requests per second: 13223.4 [#/sec]
+Time per request: 464.632 [ms]
+Time per request (across all concurrent requests): 0.681 [ms]
+Transfer rate: 96011.6 [Kbytes/sec] received
+
+17:03:25 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 20000 | Request concurrency: 2048
+Time taken for tests: 1.432 seconds
+Requests per second: 4656.34 [#/sec]
+Time per request: 146.896 [ms]
+Time per request (across all concurrent requests): 0.215 [ms]
+Transfer rate: 33808.5 [Kbytes/sec] received
+
+*********** Summary over 188 observations  ************
+Min of CPU: 0.00
+Max of CPU: 166.70
+Avg of CPU: 74.74
+Min of Memory (MBs): 22.75
+Max of Memory (MBs): 59.10
+Avg of Memory (MBs): 25.04
+
+
+
+17:03:29 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 40000 | Request concurrency: 2
+Time taken for tests: 33.364 seconds
+Requests per second: 399.65 [#/sec]
+Time per request: 5.004 [ms]
+Time per request (across all concurrent requests): 2.502 [ms]
+Transfer rate: 2901.77 [Kbytes/sec] received
+
+17:04:02 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 40000 | Request concurrency: 4
+Time taken for tests: 8.767 seconds
+Requests per second: 1520.93 [#/sec]
+Time per request: 1.315 [ms]
+Time per request (across all concurrent requests): 0.657 [ms]
+Transfer rate: 11043.1 [Kbytes/sec] received
+
+17:04:11 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 40000 | Request concurrency: 8
+Time taken for tests: 2.314 seconds
+Requests per second: 5761.42 [#/sec]
+Time per request: 0.694 [ms]
+Time per request (across all concurrent requests): 0.174 [ms]
+Transfer rate: 41832.2 [Kbytes/sec] received
+
+17:04:13 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 40000 | Request concurrency: 16
+Time taken for tests: 3.289 seconds
+Requests per second: 4054.73 [#/sec]
+Time per request: 1.48 [ms]
+Time per request (across all concurrent requests): 0.247 [ms]
+Transfer rate: 29440.4 [Kbytes/sec] received
+
+17:04:17 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 40000 | Request concurrency: 32
+Time taken for tests: 3.015 seconds
+Requests per second: 4422.73 [#/sec]
+Time per request: 2.713 [ms]
+Time per request (across all concurrent requests): 0.226 [ms]
+Transfer rate: 32112.3 [Kbytes/sec] received
+
+17:04:20 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 40000 | Request concurrency: 64
+Time taken for tests: 2.824 seconds
+Requests per second: 4721.08 [#/sec]
+Time per request: 4.66 [ms]
+Time per request (across all concurrent requests): 0.212 [ms]
+Transfer rate: 34278.5 [Kbytes/sec] received
+
+17:04:23 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 40000 | Request concurrency: 128
+Time taken for tests: 2.631 seconds
+Requests per second: 5067.15 [#/sec]
+Time per request: 8.683 [ms]
+Time per request (across all concurrent requests): 0.197 [ms]
+Transfer rate: 36791.3 [Kbytes/sec] received
+
+17:04:25 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 40000 | Request concurrency: 256
+Time taken for tests: 2.725 seconds
+Requests per second: 4892.63 [#/sec]
+Time per request: 17.577 [ms]
+Time per request (across all concurrent requests): 0.204 [ms]
+Transfer rate: 35524.1 [Kbytes/sec] received
+
+17:04:28 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 40000 | Request concurrency: 512
+Time taken for tests: 2.770 seconds
+Requests per second: 4813.46 [#/sec]
+Time per request: 35.733 [ms]
+Time per request (across all concurrent requests): 0.208 [ms]
+Transfer rate: 34949.3 [Kbytes/sec] received
+
+17:04:31 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 40000 | Request concurrency: 1024
+Time taken for tests: 2.861 seconds
+Requests per second: 14027.5 [#/sec]
+Time per request: 219 [ms]
+Time per request (across all concurrent requests): 0.642 [ms]
+Transfer rate: 101850 [Kbytes/sec] received
+
+17:04:34 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 40000 | Request concurrency: 2048
+Time taken for tests: 2.928 seconds
+Requests per second: 13834 [#/sec]
+Time per request: 444.253 [ms]
+Time per request (across all concurrent requests): 0.651 [ms]
+Transfer rate: 100445 [Kbytes/sec] received
+
+*********** Summary over 356 observations  ************
+Min of CPU: 6.20
+Max of CPU: 160.00
+Avg of CPU: 71.71
+Min of Memory (MBs): 22.75
+Max of Memory (MBs): 56.21
+Avg of Memory (MBs): 24.30
+
+
+
+17:04:39 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 80000 | Request concurrency: 2
+Time taken for tests: 66.740 seconds
+Requests per second: 399.58 [#/sec]
+Time per request: 5.005 [ms]
+Time per request (across all concurrent requests): 2.503 [ms]
+Transfer rate: 2901.24 [Kbytes/sec] received
+
+17:05:46 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 80000 | Request concurrency: 4
+Time taken for tests: 14.585 seconds
+Requests per second: 1828.49 [#/sec]
+Time per request: 1.094 [ms]
+Time per request (across all concurrent requests): 0.547 [ms]
+Transfer rate: 13276.2 [Kbytes/sec] received
+
+17:06:01 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 80000 | Request concurrency: 8
+Time taken for tests: 4.493 seconds
+Requests per second: 5934.93 [#/sec]
+Time per request: 0.674 [ms]
+Time per request (across all concurrent requests): 0.168 [ms]
+Transfer rate: 43092 [Kbytes/sec] received
+
+17:06:05 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 80000 | Request concurrency: 16
+Time taken for tests: 6.542 seconds
+Requests per second: 4076.48 [#/sec]
+Time per request: 1.472 [ms]
+Time per request (across all concurrent requests): 0.245 [ms]
+Transfer rate: 29598.3 [Kbytes/sec] received
+
+17:06:12 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 80000 | Request concurrency: 32
+Time taken for tests: 6.172 seconds
+Requests per second: 4320.81 [#/sec]
+Time per request: 2.777 [ms]
+Time per request (across all concurrent requests): 0.231 [ms]
+Transfer rate: 31372.3 [Kbytes/sec] received
+
+17:06:18 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 80000 | Request concurrency: 64
+Time taken for tests: 5.711 seconds
+Requests per second: 4669.62 [#/sec]
+Time per request: 4.711 [ms]
+Time per request (across all concurrent requests): 0.214 [ms]
+Transfer rate: 33904.9 [Kbytes/sec] received
+
+17:06:24 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 80000 | Request concurrency: 128
+Time taken for tests: 5.335 seconds
+Requests per second: 4998.92 [#/sec]
+Time per request: 8.802 [ms]
+Time per request (across all concurrent requests): 0.2 [ms]
+Transfer rate: 36295.9 [Kbytes/sec] received
+
+17:06:29 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 80000 | Request concurrency: 256
+Time taken for tests: 5.503 seconds
+Requests per second: 4846.33 [#/sec]
+Time per request: 17.745 [ms]
+Time per request (across all concurrent requests): 0.206 [ms]
+Transfer rate: 35188 [Kbytes/sec] received
+
+17:06:35 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 80000 | Request concurrency: 512
+Time taken for tests: 5.536 seconds
+Requests per second: 4817.18 [#/sec]
+Time per request: 35.706 [ms]
+Time per request (across all concurrent requests): 0.208 [ms]
+Transfer rate: 34976.3 [Kbytes/sec] received
+
+17:06:41 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 80000 | Request concurrency: 1024
+Time taken for tests: 5.731 seconds
+Requests per second: 14001.2 [#/sec]
+Time per request: 219.411 [ms]
+Time per request (across all concurrent requests): 0.643 [ms]
+Transfer rate: 101659 [Kbytes/sec] received
+
+17:06:46 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 80000 | Request concurrency: 2048
+Time taken for tests: 5.764 seconds
+Requests per second: 4627.01 [#/sec]
+Time per request: 147.828 [ms]
+Time per request (across all concurrent requests): 0.216 [ms]
+Transfer rate: 33595.5 [Kbytes/sec] received
+
+*********** Summary over 695 observations  ************
+Min of CPU: 6.20
+Max of CPU: 166.70
+Avg of CPU: 72.49
+Min of Memory (MBs): 22.75
+Max of Memory (MBs): 60.10
+Avg of Memory (MBs): 24.73
+
+
+
+17:06:54 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 100000 | Request concurrency: 2
+Time taken for tests: 83.306 seconds
+Requests per second: 400.14 [#/sec]
+Time per request: 4.998 [ms]
+Time per request (across all concurrent requests): 2.499 [ms]
+Transfer rate: 2905.3 [Kbytes/sec] received
+
+17:08:18 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 100000 | Request concurrency: 4
+Time taken for tests: 13.577 seconds
+Requests per second: 2455.21 [#/sec]
+Time per request: 0.815 [ms]
+Time per request (across all concurrent requests): 0.407 [ms]
+Transfer rate: 17826.6 [Kbytes/sec] received
+
+17:08:31 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 100000 | Request concurrency: 8
+Time taken for tests: 5.672 seconds
+Requests per second: 5876.73 [#/sec]
+Time per request: 0.681 [ms]
+Time per request (across all concurrent requests): 0.17 [ms]
+Transfer rate: 42669.4 [Kbytes/sec] received
+
+17:08:37 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 100000 | Request concurrency: 16
+Time taken for tests: 8.336 seconds
+Requests per second: 3998.8 [#/sec]
+Time per request: 1.5 [ms]
+Time per request (across all concurrent requests): 0.25 [ms]
+Transfer rate: 29034.2 [Kbytes/sec] received
+
+17:08:46 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 100000 | Request concurrency: 32
+Time taken for tests: 7.806 seconds
+Requests per second: 4270.49 [#/sec]
+Time per request: 2.81 [ms]
+Time per request (across all concurrent requests): 0.234 [ms]
+Transfer rate: 31006.9 [Kbytes/sec] received
+
+17:08:53 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 100000 | Request concurrency: 64
+Time taken for tests: 7.301 seconds
+Requests per second: 4565.63 [#/sec]
+Time per request: 4.819 [ms]
+Time per request (across all concurrent requests): 0.219 [ms]
+Transfer rate: 33149.9 [Kbytes/sec] received
+
+17:09:01 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 100000 | Request concurrency: 128
+Time taken for tests: 6.737 seconds
+Requests per second: 4948.19 [#/sec]
+Time per request: 8.892 [ms]
+Time per request (across all concurrent requests): 0.202 [ms]
+Transfer rate: 35927.6 [Kbytes/sec] received
+
+17:09:08 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 100000 | Request concurrency: 256
+Time taken for tests: 6.968 seconds
+Requests per second: 4784.01 [#/sec]
+Time per request: 17.977 [ms]
+Time per request (across all concurrent requests): 0.209 [ms]
+Transfer rate: 34735.5 [Kbytes/sec] received
+
+17:09:15 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 100000 | Request concurrency: 512
+Time taken for tests: 6.878 seconds
+Requests per second: 4846.46 [#/sec]
+Time per request: 35.49 [ms]
+Time per request (across all concurrent requests): 0.206 [ms]
+Transfer rate: 35188.9 [Kbytes/sec] received
+
+17:09:22 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 100000 | Request concurrency: 1024
+Time taken for tests: 6.991 seconds
+Requests per second: 9695.46 [#/sec]
+Time per request: 140.933 [ms]
+Time per request (across all concurrent requests): 0.413 [ms]
+Transfer rate: 70396.2 [Kbytes/sec] received
+
+17:09:29 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 100000 | Request concurrency: 2048
+Time taken for tests: 7.201 seconds
+Requests per second: 4629.19 [#/sec]
+Time per request: 147.758 [ms]
+Time per request (across all concurrent requests): 0.216 [ms]
+Transfer rate: 33611.4 [Kbytes/sec] received
+
+*********** Summary over 851 observations  ************
+Min of CPU: 0.00
+Max of CPU: 166.70
+Avg of CPU: 74.39
+Min of Memory (MBs): 22.75
+Max of Memory (MBs): 60.53
+Avg of Memory (MBs): 24.78
+
+
+
+17:09:38 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 150000 | Request concurrency: 2
+Time taken for tests: 125.005 seconds
+Requests per second: 399.98 [#/sec]
+Time per request: 5 [ms]
+Time per request (across all concurrent requests): 2.5 [ms]
+Transfer rate: 2904.18 [Kbytes/sec] received
+
+17:11:43 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 150000 | Request concurrency: 4
+Time taken for tests: 20.254 seconds
+Requests per second: 2468.67 [#/sec]
+Time per request: 0.81 [ms]
+Time per request (across all concurrent requests): 0.405 [ms]
+Transfer rate: 17924.4 [Kbytes/sec] received
+
+17:12:04 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 150000 | Request concurrency: 8
+Time taken for tests: 8.849 seconds
+Requests per second: 5650.37 [#/sec]
+Time per request: 0.708 [ms]
+Time per request (across all concurrent requests): 0.177 [ms]
+Transfer rate: 41025.9 [Kbytes/sec] received
+
+17:12:13 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 150000 | Request concurrency: 16
+Time taken for tests: 12.723 seconds
+Requests per second: 3929.77 [#/sec]
+Time per request: 1.527 [ms]
+Time per request (across all concurrent requests): 0.254 [ms]
+Transfer rate: 28533 [Kbytes/sec] received
+
+17:12:25 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 150000 | Request concurrency: 32
+Time taken for tests: 12.071 seconds
+Requests per second: 4142.27 [#/sec]
+Time per request: 2.897 [ms]
+Time per request (across all concurrent requests): 0.241 [ms]
+Transfer rate: 30076 [Kbytes/sec] received
+
+17:12:38 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 150000 | Request concurrency: 64
+Time taken for tests: 11.246 seconds
+Requests per second: 4446.07 [#/sec]
+Time per request: 4.948 [ms]
+Time per request (across all concurrent requests): 0.225 [ms]
+Transfer rate: 32281.8 [Kbytes/sec] received
+
+17:12:49 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 150000 | Request concurrency: 128
+Time taken for tests: 10.403 seconds
+Requests per second: 4806.17 [#/sec]
+Time per request: 9.155 [ms]
+Time per request (across all concurrent requests): 0.208 [ms]
+Transfer rate: 34896.4 [Kbytes/sec] received
+
+17:13:00 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 150000 | Request concurrency: 256
+Time taken for tests: 10.734 seconds
+Requests per second: 4658.06 [#/sec]
+Time per request: 18.463 [ms]
+Time per request (across all concurrent requests): 0.215 [ms]
+Transfer rate: 33821 [Kbytes/sec] received
+
+17:13:10 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 150000 | Request concurrency: 512
+Time taken for tests: 10.822 seconds
+Requests per second: 13992.8 [#/sec]
+Time per request: 109.784 [ms]
+Time per request (across all concurrent requests): 0.643 [ms]
+Transfer rate: 101598 [Kbytes/sec] received
+
+17:13:21 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 150000 | Request concurrency: 1024
+Time taken for tests: 10.879 seconds
+Requests per second: 13834.6 [#/sec]
+Time per request: 222.055 [ms]
+Time per request (across all concurrent requests): 0.651 [ms]
+Transfer rate: 100449 [Kbytes/sec] received
+
+17:13:32 - Workers: 1 | App: html | Spinloop Pause: true | Total Requests: 150000 | Request concurrency: 2048
+Time taken for tests: 10.887 seconds
+Requests per second: 4592.46 [#/sec]
+Time per request: 148.94 [ms]
+Time per request (across all concurrent requests): 0.218 [ms]
+Transfer rate: 33344.7 [Kbytes/sec] received
+
+*********** Summary over 1281 observations  ************
+Min of CPU: 0.00
+Max of CPU: 166.70
+Avg of CPU: 74.64
+Min of Memory (MBs): 22.75
+Max of Memory (MBs): 60.41
+Avg of Memory (MBs): 24.84
+
+
+

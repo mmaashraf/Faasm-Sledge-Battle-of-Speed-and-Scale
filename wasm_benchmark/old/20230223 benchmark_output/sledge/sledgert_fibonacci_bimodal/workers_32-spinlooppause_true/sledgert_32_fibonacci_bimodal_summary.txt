@@ -1,0 +1,440 @@
+00:25:27 - Workers: 32 | App: fibonacci_bimodal | Spinloop Pause: true | Total Requests: 100000 | Request concurrency: 2
+Time taken for tests: 78.198 seconds
+Requests per second: 426.28 [#/sec]
+Time per request: 4.692 [ms]
+Time per request (across all concurrent requests): 2.346 [ms]
+Transfer rate: 43.71 [Kbytes/sec] received
+
+00:26:46 - Workers: 32 | App: fibonacci_bimodal | Spinloop Pause: true | Total Requests: 100000 | Request concurrency: 2
+Time taken for tests: 73.707 seconds
+Requests per second: 452.25 [#/sec]
+Time per request: 4.422 [ms]
+Time per request (across all concurrent requests): 2.211 [ms]
+Transfer rate: 46.37 [Kbytes/sec] received
+
+00:27:59 - Workers: 32 | App: fibonacci_bimodal | Spinloop Pause: true | Total Requests: 100000 | Request concurrency: 2
+Time taken for tests: 75.363 seconds
+Requests per second: 442.31 [#/sec]
+Time per request: 4.522 [ms]
+Time per request (across all concurrent requests): 2.261 [ms]
+Transfer rate: 45.35 [Kbytes/sec] received
+
+00:29:16 - Workers: 32 | App: fibonacci_bimodal | Spinloop Pause: true | Total Requests: 100000 | Request concurrency: 4
+Time taken for tests: 41.071 seconds
+Requests per second: 811.61 [#/sec]
+Time per request: 2.464 [ms]
+Time per request (across all concurrent requests): 1.232 [ms]
+Transfer rate: 83.22 [Kbytes/sec] received
+
+00:29:57 - Workers: 32 | App: fibonacci_bimodal | Spinloop Pause: true | Total Requests: 100000 | Request concurrency: 4
+Time taken for tests: 24.400 seconds
+Requests per second: 1366.14 [#/sec]
+Time per request: 1.464 [ms]
+Time per request (across all concurrent requests): 0.732 [ms]
+Transfer rate: 140.08 [Kbytes/sec] received
+
+00:30:21 - Workers: 32 | App: fibonacci_bimodal | Spinloop Pause: true | Total Requests: 100000 | Request concurrency: 4
+Time taken for tests: 23.570 seconds
+Requests per second: 1414.28 [#/sec]
+Time per request: 1.414 [ms]
+Time per request (across all concurrent requests): 0.707 [ms]
+Transfer rate: 145.02 [Kbytes/sec] received
+
+00:30:46 - Workers: 32 | App: fibonacci_bimodal | Spinloop Pause: true | Total Requests: 100000 | Request concurrency: 8
+Time taken for tests: 10.023 seconds
+Requests per second: 3325.72 [#/sec]
+Time per request: 1.203 [ms]
+Time per request (across all concurrent requests): 0.301 [ms]
+Transfer rate: 341.02 [Kbytes/sec] received
+
+00:30:56 - Workers: 32 | App: fibonacci_bimodal | Spinloop Pause: true | Total Requests: 100000 | Request concurrency: 8
+Time taken for tests: 9.220 seconds
+Requests per second: 3615.3 [#/sec]
+Time per request: 1.106 [ms]
+Time per request (across all concurrent requests): 0.277 [ms]
+Transfer rate: 370.71 [Kbytes/sec] received
+
+00:31:05 - Workers: 32 | App: fibonacci_bimodal | Spinloop Pause: true | Total Requests: 100000 | Request concurrency: 8
+Time taken for tests: 9.525 seconds
+Requests per second: 3499.69 [#/sec]
+Time per request: 1.143 [ms]
+Time per request (across all concurrent requests): 0.286 [ms]
+Transfer rate: 358.85 [Kbytes/sec] received
+
+00:31:16 - Workers: 32 | App: fibonacci_bimodal | Spinloop Pause: true | Total Requests: 100000 | Request concurrency: 16
+Time taken for tests: 5.957 seconds
+Requests per second: 5595.79 [#/sec]
+Time per request: 1.072 [ms]
+Time per request (across all concurrent requests): 0.179 [ms]
+Transfer rate: 573.79 [Kbytes/sec] received
+
+00:31:22 - Workers: 32 | App: fibonacci_bimodal | Spinloop Pause: true | Total Requests: 100000 | Request concurrency: 16
+Time taken for tests: 6.081 seconds
+Requests per second: 5481.46 [#/sec]
+Time per request: 1.095 [ms]
+Time per request (across all concurrent requests): 0.182 [ms]
+Transfer rate: 562.06 [Kbytes/sec] received
+
+00:31:28 - Workers: 32 | App: fibonacci_bimodal | Spinloop Pause: true | Total Requests: 100000 | Request concurrency: 16
+Time taken for tests: 5.994 seconds
+Requests per second: 5560.78 [#/sec]
+Time per request: 1.079 [ms]
+Time per request (across all concurrent requests): 0.18 [ms]
+Transfer rate: 570.2 [Kbytes/sec] received
+
+00:31:35 - Workers: 32 | App: fibonacci_bimodal | Spinloop Pause: true | Total Requests: 100000 | Request concurrency: 32
+Time taken for tests: 3.883 seconds
+Requests per second: 8585.68 [#/sec]
+Time per request: 1.398 [ms]
+Time per request (across all concurrent requests): 0.116 [ms]
+Transfer rate: 880.37 [Kbytes/sec] received
+
+00:31:39 - Workers: 32 | App: fibonacci_bimodal | Spinloop Pause: true | Total Requests: 100000 | Request concurrency: 32
+Time taken for tests: 3.510 seconds
+Requests per second: 9497.65 [#/sec]
+Time per request: 1.263 [ms]
+Time per request (across all concurrent requests): 0.105 [ms]
+Transfer rate: 973.88 [Kbytes/sec] received
+
+00:31:43 - Workers: 32 | App: fibonacci_bimodal | Spinloop Pause: true | Total Requests: 100000 | Request concurrency: 32
+Time taken for tests: 3.478 seconds
+Requests per second: 9585.32 [#/sec]
+Time per request: 1.252 [ms]
+Time per request (across all concurrent requests): 0.104 [ms]
+Transfer rate: 982.87 [Kbytes/sec] received
+
+00:31:47 - Workers: 32 | App: fibonacci_bimodal | Spinloop Pause: true | Total Requests: 100000 | Request concurrency: 64
+Time taken for tests: 2.847 seconds
+Requests per second: 11709.3 [#/sec]
+Time per request: 1.879 [ms]
+Time per request (across all concurrent requests): 0.085 [ms]
+Transfer rate: 1200.66 [Kbytes/sec] received
+
+00:31:50 - Workers: 32 | App: fibonacci_bimodal | Spinloop Pause: true | Total Requests: 100000 | Request concurrency: 64
+Time taken for tests: 2.805 seconds
+Requests per second: 11882.8 [#/sec]
+Time per request: 1.851 [ms]
+Time per request (across all concurrent requests): 0.084 [ms]
+Transfer rate: 1218.45 [Kbytes/sec] received
+
+00:31:53 - Workers: 32 | App: fibonacci_bimodal | Spinloop Pause: true | Total Requests: 100000 | Request concurrency: 64
+Time taken for tests: 2.715 seconds
+Requests per second: 12276.3 [#/sec]
+Time per request: 1.792 [ms]
+Time per request (across all concurrent requests): 0.081 [ms]
+Transfer rate: 1258.8 [Kbytes/sec] received
+
+00:31:57 - Workers: 32 | App: fibonacci_bimodal | Spinloop Pause: true | Total Requests: 100000 | Request concurrency: 128
+Time taken for tests: 2.803 seconds
+Requests per second: 11893.8 [#/sec]
+Time per request: 3.699 [ms]
+Time per request (across all concurrent requests): 0.084 [ms]
+Transfer rate: 1219.58 [Kbytes/sec] received
+
+00:32:00 - Workers: 32 | App: fibonacci_bimodal | Spinloop Pause: true | Total Requests: 100000 | Request concurrency: 128
+Time taken for tests: 2.624 seconds
+Requests per second: 12704.6 [#/sec]
+Time per request: 3.463 [ms]
+Time per request (across all concurrent requests): 0.079 [ms]
+Transfer rate: 1302.72 [Kbytes/sec] received
+
+00:32:02 - Workers: 32 | App: fibonacci_bimodal | Spinloop Pause: true | Total Requests: 100000 | Request concurrency: 128
+Time taken for tests: 2.764 seconds
+Requests per second: 12059.8 [#/sec]
+Time per request: 3.648 [ms]
+Time per request (across all concurrent requests): 0.083 [ms]
+Transfer rate: 1236.6 [Kbytes/sec] received
+
+00:32:06 - Workers: 32 | App: fibonacci_bimodal | Spinloop Pause: true | Total Requests: 100000 | Request concurrency: 256
+Time taken for tests: 2.923 seconds
+Requests per second: 34241.2 [#/sec]
+Time per request: 22.429 [ms]
+Time per request (across all concurrent requests): 0.264 [ms]
+Transfer rate: 3511.06 [Kbytes/sec] received
+
+00:32:09 - Workers: 32 | App: fibonacci_bimodal | Spinloop Pause: true | Total Requests: 100000 | Request concurrency: 256
+Time taken for tests: 2.806 seconds
+Requests per second: 35812.3 [#/sec]
+Time per request: 21.446 [ms]
+Time per request (across all concurrent requests): 0.251 [ms]
+Transfer rate: 3672.15 [Kbytes/sec] received
+
+00:32:12 - Workers: 32 | App: fibonacci_bimodal | Spinloop Pause: true | Total Requests: 100000 | Request concurrency: 256
+Time taken for tests: 2.705 seconds
+Requests per second: 12324.8 [#/sec]
+Time per request: 6.978 [ms]
+Time per request (across all concurrent requests): 0.081 [ms]
+Transfer rate: 1263.77 [Kbytes/sec] received
+
+00:32:16 - Workers: 32 | App: fibonacci_bimodal | Spinloop Pause: true | Total Requests: 100000 | Request concurrency: 512
+Time taken for tests: 2.456 seconds
+Requests per second: 13570.7 [#/sec]
+Time per request: 12.674 [ms]
+Time per request (across all concurrent requests): 0.074 [ms]
+Transfer rate: 1391.52 [Kbytes/sec] received
+
+00:32:18 - Workers: 32 | App: fibonacci_bimodal | Spinloop Pause: true | Total Requests: 100000 | Request concurrency: 512
+Time taken for tests: 2.966 seconds
+Requests per second: 22848 [#/sec]
+Time per request: 29.948 [ms]
+Time per request (across all concurrent requests): 0.175 [ms]
+Transfer rate: 2342.81 [Kbytes/sec] received
+
+00:32:21 - Workers: 32 | App: fibonacci_bimodal | Spinloop Pause: true | Total Requests: 100000 | Request concurrency: 512
+Time taken for tests: 2.729 seconds
+Requests per second: 25519.4 [#/sec]
+Time per request: 26.859 [ms]
+Time per request (across all concurrent requests): 0.157 [ms]
+Transfer rate: 2616.74 [Kbytes/sec] received
+
+00:32:25 - Workers: 32 | App: fibonacci_bimodal | Spinloop Pause: true | Total Requests: 100000 | Request concurrency: 1024
+Time taken for tests: 2.769 seconds
+Requests per second: 24314.4 [#/sec]
+Time per request: 56.187 [ms]
+Time per request (across all concurrent requests): 0.164 [ms]
+Transfer rate: 2493.17 [Kbytes/sec] received
+
+00:32:28 - Workers: 32 | App: fibonacci_bimodal | Spinloop Pause: true | Total Requests: 100000 | Request concurrency: 1024
+Time taken for tests: 2.791 seconds
+Requests per second: 36390 [#/sec]
+Time per request: 84.43 [ms]
+Time per request (across all concurrent requests): 0.248 [ms]
+Transfer rate: 3731.4 [Kbytes/sec] received
+
+00:32:31 - Workers: 32 | App: fibonacci_bimodal | Spinloop Pause: true | Total Requests: 100000 | Request concurrency: 1024
+Time taken for tests: 2.714 seconds
+Requests per second: 24565.3 [#/sec]
+Time per request: 55.607 [ms]
+Time per request (across all concurrent requests): 0.162 [ms]
+Transfer rate: 2518.9 [Kbytes/sec] received
+
+*********** Summary over 2155 observations  ************
+Min of CPU: 137.50
+Max of CPU: 2573.00
+Avg of CPU: 575.53
+Min of Memory (MBs): 7.46
+Max of Memory (MBs): 55.86
+Avg of Memory (MBs): 39.77
+
+
+
+00:32:37 - Workers: 32 | App: fibonacci_bimodal | Spinloop Pause: true | Total Requests: 150000 | Request concurrency: 2
+Time taken for tests: 110.682 seconds
+Requests per second: 451.74 [#/sec]
+Time per request: 4.427 [ms]
+Time per request (across all concurrent requests): 2.214 [ms]
+Transfer rate: 46.32 [Kbytes/sec] received
+
+00:34:28 - Workers: 32 | App: fibonacci_bimodal | Spinloop Pause: true | Total Requests: 150000 | Request concurrency: 2
+Time taken for tests: 117.387 seconds
+Requests per second: 425.94 [#/sec]
+Time per request: 4.695 [ms]
+Time per request (across all concurrent requests): 2.348 [ms]
+Transfer rate: 43.68 [Kbytes/sec] received
+
+00:36:25 - Workers: 32 | App: fibonacci_bimodal | Spinloop Pause: true | Total Requests: 150000 | Request concurrency: 2
+Time taken for tests: 97.844 seconds
+Requests per second: 511.02 [#/sec]
+Time per request: 3.914 [ms]
+Time per request (across all concurrent requests): 1.957 [ms]
+Transfer rate: 52.4 [Kbytes/sec] received
+
+00:38:04 - Workers: 32 | App: fibonacci_bimodal | Spinloop Pause: true | Total Requests: 150000 | Request concurrency: 4
+Time taken for tests: 59.271 seconds
+Requests per second: 843.58 [#/sec]
+Time per request: 2.371 [ms]
+Time per request (across all concurrent requests): 1.185 [ms]
+Transfer rate: 86.5 [Kbytes/sec] received
+
+00:39:03 - Workers: 32 | App: fibonacci_bimodal | Spinloop Pause: true | Total Requests: 150000 | Request concurrency: 4
+Time taken for tests: 36.875 seconds
+Requests per second: 1355.93 [#/sec]
+Time per request: 1.475 [ms]
+Time per request (across all concurrent requests): 0.738 [ms]
+Transfer rate: 139.04 [Kbytes/sec] received
+
+00:39:40 - Workers: 32 | App: fibonacci_bimodal | Spinloop Pause: true | Total Requests: 150000 | Request concurrency: 4
+Time taken for tests: 37.346 seconds
+Requests per second: 1338.84 [#/sec]
+Time per request: 1.494 [ms]
+Time per request (across all concurrent requests): 0.747 [ms]
+Transfer rate: 137.28 [Kbytes/sec] received
+
+00:40:19 - Workers: 32 | App: fibonacci_bimodal | Spinloop Pause: true | Total Requests: 150000 | Request concurrency: 8
+Time taken for tests: 14.937 seconds
+Requests per second: 3347.42 [#/sec]
+Time per request: 1.195 [ms]
+Time per request (across all concurrent requests): 0.299 [ms]
+Transfer rate: 343.24 [Kbytes/sec] received
+
+00:40:34 - Workers: 32 | App: fibonacci_bimodal | Spinloop Pause: true | Total Requests: 150000 | Request concurrency: 8
+Time taken for tests: 13.858 seconds
+Requests per second: 3608.09 [#/sec]
+Time per request: 1.109 [ms]
+Time per request (across all concurrent requests): 0.277 [ms]
+Transfer rate: 369.97 [Kbytes/sec] received
+
+00:40:48 - Workers: 32 | App: fibonacci_bimodal | Spinloop Pause: true | Total Requests: 150000 | Request concurrency: 8
+Time taken for tests: 14.437 seconds
+Requests per second: 3463.39 [#/sec]
+Time per request: 1.155 [ms]
+Time per request (across all concurrent requests): 0.289 [ms]
+Transfer rate: 355.13 [Kbytes/sec] received
+
+00:41:03 - Workers: 32 | App: fibonacci_bimodal | Spinloop Pause: true | Total Requests: 150000 | Request concurrency: 16
+Time taken for tests: 8.874 seconds
+Requests per second: 5634.2 [#/sec]
+Time per request: 1.065 [ms]
+Time per request (across all concurrent requests): 0.177 [ms]
+Transfer rate: 577.73 [Kbytes/sec] received
+
+00:41:12 - Workers: 32 | App: fibonacci_bimodal | Spinloop Pause: true | Total Requests: 150000 | Request concurrency: 16
+Time taken for tests: 9.337 seconds
+Requests per second: 5354.83 [#/sec]
+Time per request: 1.12 [ms]
+Time per request (across all concurrent requests): 0.187 [ms]
+Transfer rate: 549.08 [Kbytes/sec] received
+
+00:41:22 - Workers: 32 | App: fibonacci_bimodal | Spinloop Pause: true | Total Requests: 150000 | Request concurrency: 16
+Time taken for tests: 9.062 seconds
+Requests per second: 5517.5 [#/sec]
+Time per request: 1.087 [ms]
+Time per request (across all concurrent requests): 0.181 [ms]
+Transfer rate: 565.76 [Kbytes/sec] received
+
+00:41:32 - Workers: 32 | App: fibonacci_bimodal | Spinloop Pause: true | Total Requests: 150000 | Request concurrency: 32
+Time taken for tests: 5.240 seconds
+Requests per second: 9542.74 [#/sec]
+Time per request: 1.258 [ms]
+Time per request (across all concurrent requests): 0.105 [ms]
+Transfer rate: 978.5 [Kbytes/sec] received
+
+00:41:37 - Workers: 32 | App: fibonacci_bimodal | Spinloop Pause: true | Total Requests: 150000 | Request concurrency: 32
+Time taken for tests: 5.282 seconds
+Requests per second: 9466.94 [#/sec]
+Time per request: 1.268 [ms]
+Time per request (across all concurrent requests): 0.106 [ms]
+Transfer rate: 970.73 [Kbytes/sec] received
+
+00:41:42 - Workers: 32 | App: fibonacci_bimodal | Spinloop Pause: true | Total Requests: 150000 | Request concurrency: 32
+Time taken for tests: 5.230 seconds
+Requests per second: 9560.85 [#/sec]
+Time per request: 1.255 [ms]
+Time per request (across all concurrent requests): 0.105 [ms]
+Transfer rate: 980.36 [Kbytes/sec] received
+
+00:41:49 - Workers: 32 | App: fibonacci_bimodal | Spinloop Pause: true | Total Requests: 150000 | Request concurrency: 64
+Time taken for tests: 4.083 seconds
+Requests per second: 12247.1 [#/sec]
+Time per request: 1.796 [ms]
+Time per request (across all concurrent requests): 0.082 [ms]
+Transfer rate: 1255.81 [Kbytes/sec] received
+
+00:41:53 - Workers: 32 | App: fibonacci_bimodal | Spinloop Pause: true | Total Requests: 150000 | Request concurrency: 64
+Time taken for tests: 4.201 seconds
+Requests per second: 11900.6 [#/sec]
+Time per request: 1.849 [ms]
+Time per request (across all concurrent requests): 0.084 [ms]
+Transfer rate: 1220.28 [Kbytes/sec] received
+
+00:41:57 - Workers: 32 | App: fibonacci_bimodal | Spinloop Pause: true | Total Requests: 150000 | Request concurrency: 64
+Time taken for tests: 4.180 seconds
+Requests per second: 11960.7 [#/sec]
+Time per request: 1.839 [ms]
+Time per request (across all concurrent requests): 0.084 [ms]
+Transfer rate: 1226.44 [Kbytes/sec] received
+
+00:42:02 - Workers: 32 | App: fibonacci_bimodal | Spinloop Pause: true | Total Requests: 150000 | Request concurrency: 128
+Time taken for tests: 4.062 seconds
+Requests per second: 12310 [#/sec]
+Time per request: 3.574 [ms]
+Time per request (across all concurrent requests): 0.081 [ms]
+Transfer rate: 1262.26 [Kbytes/sec] received
+
+00:42:07 - Workers: 32 | App: fibonacci_bimodal | Spinloop Pause: true | Total Requests: 150000 | Request concurrency: 128
+Time taken for tests: 3.955 seconds
+Requests per second: 12642.9 [#/sec]
+Time per request: 3.48 [ms]
+Time per request (across all concurrent requests): 0.079 [ms]
+Transfer rate: 1296.4 [Kbytes/sec] received
+
+00:42:11 - Workers: 32 | App: fibonacci_bimodal | Spinloop Pause: true | Total Requests: 150000 | Request concurrency: 128
+Time taken for tests: 3.944 seconds
+Requests per second: 12679 [#/sec]
+Time per request: 3.47 [ms]
+Time per request (across all concurrent requests): 0.079 [ms]
+Transfer rate: 1300.09 [Kbytes/sec] received
+
+00:42:16 - Workers: 32 | App: fibonacci_bimodal | Spinloop Pause: true | Total Requests: 150000 | Request concurrency: 256
+Time taken for tests: 4.239 seconds
+Requests per second: 23776.2 [#/sec]
+Time per request: 14.385 [ms]
+Time per request (across all concurrent requests): 0.168 [ms]
+Transfer rate: 2437.99 [Kbytes/sec] received
+
+00:42:20 - Workers: 32 | App: fibonacci_bimodal | Spinloop Pause: true | Total Requests: 150000 | Request concurrency: 256
+Time taken for tests: 4.148 seconds
+Requests per second: 24292.2 [#/sec]
+Time per request: 14.08 [ms]
+Time per request (across all concurrent requests): 0.165 [ms]
+Transfer rate: 2490.9 [Kbytes/sec] received
+
+00:42:24 - Workers: 32 | App: fibonacci_bimodal | Spinloop Pause: true | Total Requests: 150000 | Request concurrency: 256
+Time taken for tests: 3.849 seconds
+Requests per second: 12990.5 [#/sec]
+Time per request: 6.62 [ms]
+Time per request (across all concurrent requests): 0.077 [ms]
+Transfer rate: 1332.03 [Kbytes/sec] received
+
+00:42:29 - Workers: 32 | App: fibonacci_bimodal | Spinloop Pause: true | Total Requests: 150000 | Request concurrency: 512
+Time taken for tests: 3.698 seconds
+Requests per second: 13521.9 [#/sec]
+Time per request: 12.72 [ms]
+Time per request (across all concurrent requests): 0.074 [ms]
+Transfer rate: 1386.52 [Kbytes/sec] received
+
+00:42:33 - Workers: 32 | App: fibonacci_bimodal | Spinloop Pause: true | Total Requests: 150000 | Request concurrency: 512
+Time taken for tests: 4.484 seconds
+Requests per second: 34551.6 [#/sec]
+Time per request: 44.486 [ms]
+Time per request (across all concurrent requests): 0.261 [ms]
+Transfer rate: 3542.89 [Kbytes/sec] received
+
+00:42:38 - Workers: 32 | App: fibonacci_bimodal | Spinloop Pause: true | Total Requests: 150000 | Request concurrency: 512
+Time taken for tests: 4.089 seconds
+Requests per second: 28380.7 [#/sec]
+Time per request: 24.59 [ms]
+Time per request (across all concurrent requests): 0.144 [ms]
+Transfer rate: 2910.12 [Kbytes/sec] received
+
+00:42:43 - Workers: 32 | App: fibonacci_bimodal | Spinloop Pause: true | Total Requests: 150000 | Request concurrency: 1024
+Time taken for tests: 3.226 seconds
+Requests per second: 15500.8 [#/sec]
+Time per request: 22.063 [ms]
+Time per request (across all concurrent requests): 0.065 [ms]
+Transfer rate: 1589.43 [Kbytes/sec] received
+
+00:42:46 - Workers: 32 | App: fibonacci_bimodal | Spinloop Pause: true | Total Requests: 150000 | Request concurrency: 1024
+Time taken for tests: 5.016 seconds
+Requests per second: 9968.78 [#/sec]
+Time per request: 34.307 [ms]
+Time per request (across all concurrent requests): 0.1 [ms]
+Transfer rate: 1022.19 [Kbytes/sec] received
+
+00:42:51 - Workers: 32 | App: fibonacci_bimodal | Spinloop Pause: true | Total Requests: 150000 | Request concurrency: 1024
+Time taken for tests: 4.275 seconds
+Requests per second: 23930.3 [#/sec]
+Time per request: 57.113 [ms]
+Time per request (across all concurrent requests): 0.168 [ms]
+Transfer rate: 2453.78 [Kbytes/sec] received
+
+*********** Summary over 3115 observations  ************
+Min of CPU: 133.30
+Max of CPU: 2627.00
+Avg of CPU: 588.92
+Min of Memory (MBs): 49.05
+Max of Memory (MBs): 61.39
+Avg of Memory (MBs): 49.18
+
+
+

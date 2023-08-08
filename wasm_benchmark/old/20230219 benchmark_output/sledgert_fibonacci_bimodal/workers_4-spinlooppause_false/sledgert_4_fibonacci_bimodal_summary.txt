@@ -1,0 +1,540 @@
+01:04:46 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 1000 | Request concurrency: 1
+Time taken for tests: 0.076 seconds
+Requests per second: 4379.75 [#/sec]
+Time per request: 0.228 [ms]
+Time per request (across all concurrent requests): 0.228 [ms]
+Transfer rate: 436.26 [Kbytes/sec] received
+
+01:04:46 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 1000 | Request concurrency: 2
+Time taken for tests: 0.035 seconds
+Requests per second: 9413.22 [#/sec]
+Time per request: 0.212 [ms]
+Time per request (across all concurrent requests): 0.106 [ms]
+Transfer rate: 937.65 [Kbytes/sec] received
+
+01:04:46 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 1000 | Request concurrency: 4
+Time taken for tests: 0.038 seconds
+Requests per second: 8711.07 [#/sec]
+Time per request: 0.23 [ms]
+Time per request (across all concurrent requests): 0.115 [ms]
+Transfer rate: 867.7 [Kbytes/sec] received
+
+01:04:47 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 1000 | Request concurrency: 8
+Time taken for tests: 0.023 seconds
+Requests per second: 14286.9 [#/sec]
+Time per request: 0.28 [ms]
+Time per request (across all concurrent requests): 0.07 [ms]
+Transfer rate: 1423.11 [Kbytes/sec] received
+
+01:04:47 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 1000 | Request concurrency: 16
+Time taken for tests: 0.025 seconds
+Requests per second: 28587.9 [#/sec]
+Time per request: 0.779 [ms]
+Time per request (across all concurrent requests): 0.141 [ms]
+Transfer rate: 2847.62 [Kbytes/sec] received
+
+01:04:47 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 1000 | Request concurrency: 32
+Time taken for tests: 0.026 seconds
+Requests per second: 27222.8 [#/sec]
+Time per request: 1.613 [ms]
+Time per request (across all concurrent requests): 0.148 [ms]
+Transfer rate: 2711.65 [Kbytes/sec] received
+
+01:04:47 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 1000 | Request concurrency: 64
+Time taken for tests: 0.030 seconds
+Requests per second: 39413 [#/sec]
+Time per request: 4.939 [ms]
+Time per request (across all concurrent requests): 0.232 [ms]
+Transfer rate: 3925.91 [Kbytes/sec] received
+
+01:04:47 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 1000 | Request concurrency: 128
+Time taken for tests: 0.101 seconds
+Requests per second: 3316.85 [#/sec]
+Time per request: 13.266 [ms]
+Time per request (across all concurrent requests): 0.301 [ms]
+Transfer rate: 330.39 [Kbytes/sec] received
+
+01:04:47 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 1000 | Request concurrency: 256
+Time taken for tests: 0.025 seconds
+Requests per second: 26646.1 [#/sec]
+Time per request: 12.838 [ms]
+Time per request (across all concurrent requests): 0.151 [ms]
+Transfer rate: 2654.2 [Kbytes/sec] received
+
+01:04:47 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 1000 | Request concurrency: 512
+Time taken for tests: 0.212 seconds
+Requests per second: 4729.03 [#/sec]
+Time per request: 324.805 [ms]
+Time per request (across all concurrent requests): 1.903 [ms]
+Transfer rate: 471.06 [Kbytes/sec] received
+
+01:04:47 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 1000 | Request concurrency: 1000
+Time taken for tests: 0.227 seconds
+Requests per second: 4510.63 [#/sec]
+Time per request: 665.242 [ms]
+Time per request (across all concurrent requests): 1.996 [ms]
+Transfer rate: 449.3 [Kbytes/sec] received
+
+*********** Summary over 7 observations  ************
+Min of CPU: 400.00
+Max of CPU: 453.30
+Avg of CPU: 426.66
+Min of Memory (MBs): 6.36
+Max of Memory (MBs): 19.22
+Avg of Memory (MBs): 14.57
+
+
+
+01:04:49 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 10000 | Request concurrency: 1
+Time taken for tests: 1.723 seconds
+Requests per second: 1935.44 [#/sec]
+Time per request: 0.517 [ms]
+Time per request (across all concurrent requests): 0.517 [ms]
+Transfer rate: 192.79 [Kbytes/sec] received
+
+01:04:51 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 10000 | Request concurrency: 2
+Time taken for tests: 0.342 seconds
+Requests per second: 9747.65 [#/sec]
+Time per request: 0.205 [ms]
+Time per request (across all concurrent requests): 0.103 [ms]
+Transfer rate: 970.96 [Kbytes/sec] received
+
+01:04:52 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 10000 | Request concurrency: 4
+Time taken for tests: 0.323 seconds
+Requests per second: 10332.8 [#/sec]
+Time per request: 0.194 [ms]
+Time per request (across all concurrent requests): 0.097 [ms]
+Transfer rate: 1029.25 [Kbytes/sec] received
+
+01:04:52 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 10000 | Request concurrency: 8
+Time taken for tests: 0.208 seconds
+Requests per second: 15996.4 [#/sec]
+Time per request: 0.25 [ms]
+Time per request (across all concurrent requests): 0.063 [ms]
+Transfer rate: 1593.39 [Kbytes/sec] received
+
+01:04:52 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 10000 | Request concurrency: 16
+Time taken for tests: 0.244 seconds
+Requests per second: 13654.8 [#/sec]
+Time per request: 0.439 [ms]
+Time per request (across all concurrent requests): 0.073 [ms]
+Transfer rate: 1360.15 [Kbytes/sec] received
+
+01:04:52 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 10000 | Request concurrency: 32
+Time taken for tests: 0.167 seconds
+Requests per second: 19957.6 [#/sec]
+Time per request: 0.601 [ms]
+Time per request (across all concurrent requests): 0.05 [ms]
+Transfer rate: 1987.97 [Kbytes/sec] received
+
+01:04:53 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 10000 | Request concurrency: 64
+Time taken for tests: 0.193 seconds
+Requests per second: 17269.8 [#/sec]
+Time per request: 1.274 [ms]
+Time per request (across all concurrent requests): 0.058 [ms]
+Transfer rate: 1720.23 [Kbytes/sec] received
+
+01:04:53 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 10000 | Request concurrency: 128
+Time taken for tests: 0.230 seconds
+Requests per second: 43460 [#/sec]
+Time per request: 8.836 [ms]
+Time per request (across all concurrent requests): 0.207 [ms]
+Transfer rate: 4329.03 [Kbytes/sec] received
+
+01:04:53 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 10000 | Request concurrency: 256
+Time taken for tests: 0.182 seconds
+Requests per second: 36605.6 [#/sec]
+Time per request: 9.343 [ms]
+Time per request (across all concurrent requests): 0.11 [ms]
+Transfer rate: 3646.26 [Kbytes/sec] received
+
+01:04:53 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 10000 | Request concurrency: 512
+Time taken for tests: 0.389 seconds
+Requests per second: 44631.3 [#/sec]
+Time per request: 38.906 [ms]
+Time per request (across all concurrent requests): 0.228 [ms]
+Transfer rate: 4445.7 [Kbytes/sec] received
+
+01:04:54 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 10000 | Request concurrency: 1024
+Time taken for tests: 0.192 seconds
+Requests per second: 34813.2 [#/sec]
+Time per request: 39.238 [ms]
+Time per request (across all concurrent requests): 0.115 [ms]
+Transfer rate: 3467.72 [Kbytes/sec] received
+
+01:04:54 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 10000 | Request concurrency: 2048
+Time taken for tests: 0.845 seconds
+Requests per second: 15654.2 [#/sec]
+Time per request: 433.952 [ms]
+Time per request (across all concurrent requests): 0.635 [ms]
+Transfer rate: 1559.31 [Kbytes/sec] received
+
+01:04:55 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 10000 | Request concurrency: 4096
+Time taken for tests: 1.714 seconds
+Requests per second: 7663.3 [#/sec]
+Time per request: 1765.76 [ms]
+Time per request (across all concurrent requests): 1.293 [ms]
+Transfer rate: 763.34 [Kbytes/sec] received
+
+01:04:57 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 10000 | Request concurrency: 8192
+Time taken for tests: 0.910 seconds
+Requests per second: 11005.1 [#/sec]
+Time per request: 2233.14 [ms]
+Time per request (across all concurrent requests): 0.818 [ms]
+Transfer rate: 1096.21 [Kbytes/sec] received
+
+01:04:58 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 10000 | Request concurrency: 10000
+Time taken for tests: 0.510 seconds
+Requests per second: 19666.7 [#/sec]
+Time per request: 1525.42 [ms]
+Time per request (across all concurrent requests): 0.458 [ms]
+Transfer rate: 1958.99 [Kbytes/sec] received
+
+*********** Summary over 47 observations  ************
+Min of CPU: 393.30
+Max of CPU: 493.30
+Avg of CPU: 436.63
+Min of Memory (MBs): 19.21
+Max of Memory (MBs): 91.02
+Avg of Memory (MBs): 38.68
+
+
+
+01:05:00 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 50000 | Request concurrency: 1
+Time taken for tests: 3.833 seconds
+Requests per second: 4348.42 [#/sec]
+Time per request: 0.23 [ms]
+Time per request (across all concurrent requests): 0.23 [ms]
+Transfer rate: 433.14 [Kbytes/sec] received
+
+01:05:04 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 50000 | Request concurrency: 2
+Time taken for tests: 2.818 seconds
+Requests per second: 5915.82 [#/sec]
+Time per request: 0.338 [ms]
+Time per request (across all concurrent requests): 0.169 [ms]
+Transfer rate: 589.27 [Kbytes/sec] received
+
+01:05:07 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 50000 | Request concurrency: 4
+Time taken for tests: 1.663 seconds
+Requests per second: 10021.1 [#/sec]
+Time per request: 0.2 [ms]
+Time per request (across all concurrent requests): 0.1 [ms]
+Transfer rate: 998.19 [Kbytes/sec] received
+
+01:05:09 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 50000 | Request concurrency: 8
+Time taken for tests: 0.986 seconds
+Requests per second: 16896.1 [#/sec]
+Time per request: 0.237 [ms]
+Time per request (across all concurrent requests): 0.059 [ms]
+Transfer rate: 1683.01 [Kbytes/sec] received
+
+01:05:10 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 50000 | Request concurrency: 16
+Time taken for tests: 1.261 seconds
+Requests per second: 13218.5 [#/sec]
+Time per request: 0.454 [ms]
+Time per request (across all concurrent requests): 0.076 [ms]
+Transfer rate: 1316.68 [Kbytes/sec] received
+
+01:05:11 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 50000 | Request concurrency: 32
+Time taken for tests: 1.059 seconds
+Requests per second: 15732.8 [#/sec]
+Time per request: 0.763 [ms]
+Time per request (across all concurrent requests): 0.064 [ms]
+Transfer rate: 1567.14 [Kbytes/sec] received
+
+01:05:12 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 50000 | Request concurrency: 64
+Time taken for tests: 1.150 seconds
+Requests per second: 29970.3 [#/sec]
+Time per request: 2.875 [ms]
+Time per request (across all concurrent requests): 0.134 [ms]
+Transfer rate: 2985.32 [Kbytes/sec] received
+
+01:05:13 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 50000 | Request concurrency: 128
+Time taken for tests: 1.130 seconds
+Requests per second: 56276.2 [#/sec]
+Time per request: 7.029 [ms]
+Time per request (across all concurrent requests): 0.165 [ms]
+Transfer rate: 5605.64 [Kbytes/sec] received
+
+01:05:14 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 50000 | Request concurrency: 256
+Time taken for tests: 1.061 seconds
+Requests per second: 32156.7 [#/sec]
+Time per request: 10.643 [ms]
+Time per request (across all concurrent requests): 0.125 [ms]
+Transfer rate: 3203.1 [Kbytes/sec] received
+
+01:05:16 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 50000 | Request concurrency: 512
+Time taken for tests: 1.015 seconds
+Requests per second: 16428.2 [#/sec]
+Time per request: 10.47 [ms]
+Time per request (across all concurrent requests): 0.061 [ms]
+Transfer rate: 1636.4 [Kbytes/sec] received
+
+01:05:17 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 50000 | Request concurrency: 1024
+Time taken for tests: 0.838 seconds
+Requests per second: 39909.1 [#/sec]
+Time per request: 34.229 [ms]
+Time per request (across all concurrent requests): 0.1 [ms]
+Transfer rate: 3975.32 [Kbytes/sec] received
+
+01:05:18 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 50000 | Request concurrency: 2048
+Time taken for tests: 1.680 seconds
+Requests per second: 33272.3 [#/sec]
+Time per request: 188.455 [ms]
+Time per request (across all concurrent requests): 0.276 [ms]
+Transfer rate: 3314.23 [Kbytes/sec] received
+
+01:05:19 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 50000 | Request concurrency: 4096
+Time taken for tests: 1.732 seconds
+Requests per second: 28870.2 [#/sec]
+Time per request: 425.63 [ms]
+Time per request (across all concurrent requests): 0.312 [ms]
+Transfer rate: 2875.74 [Kbytes/sec] received
+
+01:05:21 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 50000 | Request concurrency: 8192
+Time taken for tests: 6.723 seconds
+Requests per second: 7436.99 [#/sec]
+Time per request: 3304.56 [ms]
+Time per request (across all concurrent requests): 1.209 [ms]
+Transfer rate: 740.8 [Kbytes/sec] received
+
+01:05:28 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 50000 | Request concurrency: 16384
+Time taken for tests: 13.137 seconds
+Requests per second: 2580.11 [#/sec]
+Time per request: 8469.4 [ms]
+Time per request (across all concurrent requests): 1.551 [ms]
+Transfer rate: 257 [Kbytes/sec] received
+
+01:05:41 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 50000 | Request concurrency: 20000
+Time taken for tests: 16.673 seconds
+Requests per second: 999.68 [#/sec]
+Time per request: 6670.14 [ms]
+Time per request (across all concurrent requests): 1 [ms]
+Transfer rate: 99.58 [Kbytes/sec] received
+
+01:05:58 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 50000 | Request concurrency: 20000
+Time taken for tests: 17.165 seconds
+Requests per second: 1962.52 [#/sec]
+Time per request: 13590.1 [ms]
+Time per request (across all concurrent requests): 2.039 [ms]
+Transfer rate: 195.49 [Kbytes/sec] received
+
+*********** Summary over 387 observations  ************
+Min of CPU: 368.80
+Max of CPU: 506.70
+Avg of CPU: 430.54
+Min of Memory (MBs): 46.39
+Max of Memory (MBs): 289.05
+Avg of Memory (MBs): 168.59
+
+
+
+01:06:17 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 100000 | Request concurrency: 1
+Time taken for tests: 7.542 seconds
+Requests per second: 4419.94 [#/sec]
+Time per request: 0.226 [ms]
+Time per request (across all concurrent requests): 0.226 [ms]
+Transfer rate: 440.27 [Kbytes/sec] received
+
+01:06:25 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 100000 | Request concurrency: 2
+Time taken for tests: 3.389 seconds
+Requests per second: 9835.93 [#/sec]
+Time per request: 0.203 [ms]
+Time per request (across all concurrent requests): 0.102 [ms]
+Transfer rate: 979.75 [Kbytes/sec] received
+
+01:06:28 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 100000 | Request concurrency: 4
+Time taken for tests: 3.192 seconds
+Requests per second: 10441.8 [#/sec]
+Time per request: 0.192 [ms]
+Time per request (across all concurrent requests): 0.096 [ms]
+Transfer rate: 1040.1 [Kbytes/sec] received
+
+01:06:31 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 100000 | Request concurrency: 8
+Time taken for tests: 1.999 seconds
+Requests per second: 16674.2 [#/sec]
+Time per request: 0.24 [ms]
+Time per request (across all concurrent requests): 0.06 [ms]
+Transfer rate: 1660.91 [Kbytes/sec] received
+
+01:06:33 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 100000 | Request concurrency: 16
+Time taken for tests: 2.762 seconds
+Requests per second: 12066.8 [#/sec]
+Time per request: 0.497 [ms]
+Time per request (across all concurrent requests): 0.083 [ms]
+Transfer rate: 1201.96 [Kbytes/sec] received
+
+01:06:36 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 100000 | Request concurrency: 32
+Time taken for tests: 2.129 seconds
+Requests per second: 15655.2 [#/sec]
+Time per request: 0.767 [ms]
+Time per request (across all concurrent requests): 0.064 [ms]
+Transfer rate: 1559.4 [Kbytes/sec] received
+
+01:06:38 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 100000 | Request concurrency: 64
+Time taken for tests: 2.507 seconds
+Requests per second: 29532.8 [#/sec]
+Time per request: 2.947 [ms]
+Time per request (across all concurrent requests): 0.137 [ms]
+Transfer rate: 2941.74 [Kbytes/sec] received
+
+01:06:41 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 100000 | Request concurrency: 128
+Time taken for tests: 2.087 seconds
+Requests per second: 15974 [#/sec]
+Time per request: 2.754 [ms]
+Time per request (across all concurrent requests): 0.063 [ms]
+Transfer rate: 1591.16 [Kbytes/sec] received
+
+01:06:43 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 100000 | Request concurrency: 256
+Time taken for tests: 2.038 seconds
+Requests per second: 32720.5 [#/sec]
+Time per request: 10.452 [ms]
+Time per request (across all concurrent requests): 0.122 [ms]
+Transfer rate: 3259.27 [Kbytes/sec] received
+
+01:06:45 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 100000 | Request concurrency: 512
+Time taken for tests: 2.271 seconds
+Requests per second: 52075.9 [#/sec]
+Time per request: 30.137 [ms]
+Time per request (across all concurrent requests): 0.176 [ms]
+Transfer rate: 5187.24 [Kbytes/sec] received
+
+01:06:48 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 100000 | Request concurrency: 1024
+Time taken for tests: 2.212 seconds
+Requests per second: 50431.4 [#/sec]
+Time per request: 61.269 [ms]
+Time per request (across all concurrent requests): 0.179 [ms]
+Transfer rate: 5023.44 [Kbytes/sec] received
+
+01:06:50 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 100000 | Request concurrency: 2048
+Time taken for tests: 2.703 seconds
+Requests per second: 12332.9 [#/sec]
+Time per request: 55.461 [ms]
+Time per request (across all concurrent requests): 0.081 [ms]
+Transfer rate: 1228.48 [Kbytes/sec] received
+
+01:06:53 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 100000 | Request concurrency: 4096
+Time taken for tests: 3.349 seconds
+Requests per second: 29864.6 [#/sec]
+Time per request: 411.457 [ms]
+Time per request (across all concurrent requests): 0.3 [ms]
+Transfer rate: 2974.79 [Kbytes/sec] received
+
+01:06:56 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 100000 | Request concurrency: 8192
+Time taken for tests: 4.424 seconds
+Requests per second: 27000.7 [#/sec]
+Time per request: 953.663 [ms]
+Time per request (across all concurrent requests): 0.35 [ms]
+Transfer rate: 2689.52 [Kbytes/sec] received
+
+01:07:01 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 100000 | Request concurrency: 16384
+Time taken for tests: 26.109 seconds
+Requests per second: 3861.88 [#/sec]
+Time per request: 12728.9 [ms]
+Time per request (across all concurrent requests): 2.331 [ms]
+Transfer rate: 384.67 [Kbytes/sec] received
+
+01:07:27 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 100000 | Request concurrency: 20000
+Time taken for tests: 35.610 seconds
+Requests per second: 936.1 [#/sec]
+Time per request: 7123.21 [ms]
+Time per request (across all concurrent requests): 1.068 [ms]
+Transfer rate: 93.24 [Kbytes/sec] received
+
+*********** Summary over 547 observations  ************
+Min of CPU: 375.00
+Max of CPU: 506.70
+Avg of CPU: 436.36
+Min of Memory (MBs): 46.39
+Max of Memory (MBs): 240.11
+Avg of Memory (MBs): 150.60
+
+
+
+01:08:05 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 150000 | Request concurrency: 1
+Time taken for tests: 10.770 seconds
+Requests per second: 4642.46 [#/sec]
+Time per request: 0.215 [ms]
+Time per request (across all concurrent requests): 0.215 [ms]
+Transfer rate: 462.43 [Kbytes/sec] received
+
+01:08:15 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 150000 | Request concurrency: 2
+Time taken for tests: 5.005 seconds
+Requests per second: 9990.91 [#/sec]
+Time per request: 0.2 [ms]
+Time per request (across all concurrent requests): 0.1 [ms]
+Transfer rate: 995.19 [Kbytes/sec] received
+
+01:08:21 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 150000 | Request concurrency: 4
+Time taken for tests: 5.122 seconds
+Requests per second: 9762.13 [#/sec]
+Time per request: 0.205 [ms]
+Time per request (across all concurrent requests): 0.102 [ms]
+Transfer rate: 972.4 [Kbytes/sec] received
+
+01:08:26 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 150000 | Request concurrency: 8
+Time taken for tests: 3.034 seconds
+Requests per second: 16482.2 [#/sec]
+Time per request: 0.243 [ms]
+Time per request (across all concurrent requests): 0.061 [ms]
+Transfer rate: 1641.79 [Kbytes/sec] received
+
+01:08:29 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 150000 | Request concurrency: 16
+Time taken for tests: 3.878 seconds
+Requests per second: 12891.9 [#/sec]
+Time per request: 0.465 [ms]
+Time per request (across all concurrent requests): 0.078 [ms]
+Transfer rate: 1284.15 [Kbytes/sec] received
+
+01:08:33 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 150000 | Request concurrency: 32
+Time taken for tests: 2.946 seconds
+Requests per second: 16972 [#/sec]
+Time per request: 0.707 [ms]
+Time per request (across all concurrent requests): 0.059 [ms]
+Transfer rate: 1690.57 [Kbytes/sec] received
+
+01:08:36 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 150000 | Request concurrency: 64
+Time taken for tests: 2.912 seconds
+Requests per second: 17173 [#/sec]
+Time per request: 1.281 [ms]
+Time per request (across all concurrent requests): 0.058 [ms]
+Transfer rate: 1710.59 [Kbytes/sec] received
+
+01:08:39 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 150000 | Request concurrency: 128
+Time taken for tests: 3.304 seconds
+Requests per second: 15134.7 [#/sec]
+Time per request: 2.907 [ms]
+Time per request (across all concurrent requests): 0.066 [ms]
+Transfer rate: 1507.56 [Kbytes/sec] received
+
+01:08:42 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 150000 | Request concurrency: 256
+Time taken for tests: 3.866 seconds
+Requests per second: 40072.2 [#/sec]
+Time per request: 19.177 [ms]
+Time per request (across all concurrent requests): 0.225 [ms]
+Transfer rate: 3991.56 [Kbytes/sec] received
+
+01:08:46 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 150000 | Request concurrency: 512
+Time taken for tests: 3.391 seconds
+Requests per second: 48905.6 [#/sec]
+Time per request: 31.903 [ms]
+Time per request (across all concurrent requests): 0.187 [ms]
+Transfer rate: 4871.45 [Kbytes/sec] received
+
+01:08:50 - Workers: 4 | App: fibonacci_bimodal | Total Requests: 150000 | Request concurrency: 1024
+Time taken for tests: 2.346 seconds
+Requests per second: 21317 [#/sec]
+Time per request: 16.044 [ms]
+Time per request (across all concurrent requests): 0.047 [ms]
+Transfer rate: 2123.37 [Kbytes/sec] received
+
+*********** Summary over 250 observations  ************
+Min of CPU: 400.00
+Max of CPU: 500.00
+Avg of CPU: 467.47
+Min of Memory (MBs): 46.39
+Max of Memory (MBs): 46.39
+Avg of Memory (MBs): 46.39
+
+
+

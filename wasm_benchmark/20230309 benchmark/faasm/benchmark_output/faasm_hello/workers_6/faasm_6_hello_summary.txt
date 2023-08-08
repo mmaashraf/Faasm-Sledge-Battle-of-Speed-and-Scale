@@ -1,0 +1,335 @@
+08:41:04 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 2
+Time taken for tests: 86.015 seconds
+Requests per second: 1748.12 [#/sec]
+Time per request: 2.288 [ms]
+Time per request (across all concurrent requests): 2.288 [ms]
+Transfer rate: 513.85 [Kbytes/sec] received
+
+08:43:11 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 2
+Time taken for tests: 85.645 seconds
+Requests per second: 1755.58 [#/sec]
+Time per request: 2.279 [ms]
+Time per request (across all concurrent requests): 2.279 [ms]
+Transfer rate: 516.04 [Kbytes/sec] received
+
+08:45:19 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 2
+Time taken for tests: 85.178 seconds
+Requests per second: 1761.88 [#/sec]
+Time per request: 2.271 [ms]
+Time per request (across all concurrent requests): 2.271 [ms]
+Transfer rate: 517.89 [Kbytes/sec] received
+
+08:47:24 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 2
+Time taken for tests: 86.063 seconds
+Requests per second: 1744.35 [#/sec]
+Time per request: 2.294 [ms]
+Time per request (across all concurrent requests): 2.294 [ms]
+Transfer rate: 512.74 [Kbytes/sec] received
+
+08:49:33 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 4
+Time taken for tests: 65.226 seconds
+Requests per second: 2305.78 [#/sec]
+Time per request: 3.469 [ms]
+Time per request (across all concurrent requests): 1.735 [ms]
+Transfer rate: 677.77 [Kbytes/sec] received
+
+08:51:19 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 4
+Time taken for tests: 65.219 seconds
+Requests per second: 2303.36 [#/sec]
+Time per request: 3.473 [ms]
+Time per request (across all concurrent requests): 1.737 [ms]
+Transfer rate: 677.06 [Kbytes/sec] received
+
+08:53:05 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 4
+Time taken for tests: 65.414 seconds
+Requests per second: 2300 [#/sec]
+Time per request: 3.478 [ms]
+Time per request (across all concurrent requests): 1.739 [ms]
+Transfer rate: 676.07 [Kbytes/sec] received
+
+08:54:50 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 4
+Time taken for tests: 65.061 seconds
+Requests per second: 2307.43 [#/sec]
+Time per request: 3.467 [ms]
+Time per request (across all concurrent requests): 1.733 [ms]
+Transfer rate: 678.26 [Kbytes/sec] received
+
+08:56:38 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 8
+Time taken for tests: 36.519 seconds
+Requests per second: 4118.07 [#/sec]
+Time per request: 3.886 [ms]
+Time per request (across all concurrent requests): 0.971 [ms]
+Transfer rate: 1210.49 [Kbytes/sec] received
+
+08:57:55 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 8
+Time taken for tests: 35.914 seconds
+Requests per second: 4192.58 [#/sec]
+Time per request: 3.816 [ms]
+Time per request (across all concurrent requests): 0.954 [ms]
+Transfer rate: 1232.39 [Kbytes/sec] received
+
+08:59:12 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 8
+Time taken for tests: 36.137 seconds
+Requests per second: 4196.6 [#/sec]
+Time per request: 3.813 [ms]
+Time per request (across all concurrent requests): 0.953 [ms]
+Transfer rate: 1233.57 [Kbytes/sec] received
+
+09:00:29 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 8
+Time taken for tests: 36.911 seconds
+Requests per second: 4114.28 [#/sec]
+Time per request: 3.89 [ms]
+Time per request (across all concurrent requests): 0.972 [ms]
+Transfer rate: 1209.38 [Kbytes/sec] received
+
+09:01:50 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 16
+Time taken for tests: 8.862 seconds
+Requests per second: 16934.7 [#/sec]
+Time per request: 1.889 [ms]
+Time per request (across all concurrent requests): 0.236 [ms]
+Transfer rate: 4977.86 [Kbytes/sec] received
+
+09:02:38 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 16
+Time taken for tests: 8.609 seconds
+Requests per second: 17435.1 [#/sec]
+Time per request: 1.835 [ms]
+Time per request (across all concurrent requests): 0.23 [ms]
+Transfer rate: 5124.96 [Kbytes/sec] received
+
+09:03:26 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 16
+Time taken for tests: 8.693 seconds
+Requests per second: 17270.2 [#/sec]
+Time per request: 1.853 [ms]
+Time per request (across all concurrent requests): 0.232 [ms]
+Transfer rate: 5076.5 [Kbytes/sec] received
+
+09:04:15 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 16
+Time taken for tests: 8.602 seconds
+Requests per second: 17450.8 [#/sec]
+Time per request: 1.834 [ms]
+Time per request (across all concurrent requests): 0.23 [ms]
+Transfer rate: 5129.59 [Kbytes/sec] received
+
+09:05:06 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 32
+Time taken for tests: 8.168 seconds
+Requests per second: 18367.2 [#/sec]
+Time per request: 3.485 [ms]
+Time per request (across all concurrent requests): 0.218 [ms]
+Transfer rate: 5398.96 [Kbytes/sec] received
+
+09:05:54 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 32
+Time taken for tests: 8.432 seconds
+Requests per second: 17790.8 [#/sec]
+Time per request: 3.598 [ms]
+Time per request (across all concurrent requests): 0.224 [ms]
+Transfer rate: 5229.53 [Kbytes/sec] received
+
+09:06:42 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 32
+Time taken for tests: 7.746 seconds
+Requests per second: 19369.8 [#/sec]
+Time per request: 3.305 [ms]
+Time per request (across all concurrent requests): 0.206 [ms]
+Transfer rate: 5693.67 [Kbytes/sec] received
+
+09:07:29 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 32
+Time taken for tests: 8.474 seconds
+Requests per second: 17702.8 [#/sec]
+Time per request: 3.616 [ms]
+Time per request (across all concurrent requests): 0.226 [ms]
+Transfer rate: 5203.65 [Kbytes/sec] received
+
+09:08:19 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 64
+Time taken for tests: 7.705 seconds
+Requests per second: 19472.2 [#/sec]
+Time per request: 6.573 [ms]
+Time per request (across all concurrent requests): 0.206 [ms]
+Transfer rate: 5723.76 [Kbytes/sec] received
+
+09:09:07 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 64
+Time taken for tests: 7.496 seconds
+Requests per second: 20016.2 [#/sec]
+Time per request: 6.395 [ms]
+Time per request (across all concurrent requests): 0.2 [ms]
+Transfer rate: 5883.66 [Kbytes/sec] received
+
+09:09:55 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 64
+Time taken for tests: 8.076 seconds
+Requests per second: 18574.5 [#/sec]
+Time per request: 6.892 [ms]
+Time per request (across all concurrent requests): 0.216 [ms]
+Transfer rate: 5459.89 [Kbytes/sec] received
+
+09:10:43 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 64
+Time taken for tests: 8.060 seconds
+Requests per second: 18614.2 [#/sec]
+Time per request: 6.877 [ms]
+Time per request (across all concurrent requests): 0.214 [ms]
+Transfer rate: 5471.54 [Kbytes/sec] received
+
+09:11:33 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 128
+Time taken for tests: 8.372 seconds
+Requests per second: 17917.6 [#/sec]
+Time per request: 14.288 [ms]
+Time per request (across all concurrent requests): 0.224 [ms]
+Transfer rate: 5266.8 [Kbytes/sec] received
+
+09:12:21 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 128
+Time taken for tests: 8.511 seconds
+Requests per second: 17625.4 [#/sec]
+Time per request: 14.524 [ms]
+Time per request (across all concurrent requests): 0.226 [ms]
+Transfer rate: 5180.91 [Kbytes/sec] received
+
+09:13:09 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 128
+Time taken for tests: 8.230 seconds
+Requests per second: 18226.1 [#/sec]
+Time per request: 14.046 [ms]
+Time per request (across all concurrent requests): 0.22 [ms]
+Transfer rate: 5357.46 [Kbytes/sec] received
+
+09:13:57 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 128
+Time taken for tests: 8.340 seconds
+Requests per second: 17986.8 [#/sec]
+Time per request: 14.233 [ms]
+Time per request (across all concurrent requests): 0.222 [ms]
+Transfer rate: 5287.14 [Kbytes/sec] received
+
+09:14:47 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 256
+Time taken for tests: 7.832 seconds
+Requests per second: 19156.2 [#/sec]
+Time per request: 26.728 [ms]
+Time per request (across all concurrent requests): 0.208 [ms]
+Transfer rate: 5630.88 [Kbytes/sec] received
+
+09:15:33 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 256
+Time taken for tests: 8.533 seconds
+Requests per second: 17578.9 [#/sec]
+Time per request: 29.126 [ms]
+Time per request (across all concurrent requests): 0.228 [ms]
+Transfer rate: 5167.24 [Kbytes/sec] received
+
+09:16:21 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 256
+Time taken for tests: 8.432 seconds
+Requests per second: 17790.5 [#/sec]
+Time per request: 28.78 [ms]
+Time per request (across all concurrent requests): 0.224 [ms]
+Transfer rate: 5229.45 [Kbytes/sec] received
+
+09:17:08 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 256
+Time taken for tests: 8.426 seconds
+Requests per second: 17805.5 [#/sec]
+Time per request: 28.755 [ms]
+Time per request (across all concurrent requests): 0.224 [ms]
+Transfer rate: 5233.85 [Kbytes/sec] received
+
+09:17:57 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 512
+Time taken for tests: 8.246 seconds
+Requests per second: 18195.5 [#/sec]
+Time per request: 56.277 [ms]
+Time per request (across all concurrent requests): 0.22 [ms]
+Transfer rate: 5348.48 [Kbytes/sec] received
+
+09:18:45 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 512
+Time taken for tests: 8.406 seconds
+Requests per second: 17848.1 [#/sec]
+Time per request: 57.373 [ms]
+Time per request (across all concurrent requests): 0.224 [ms]
+Transfer rate: 5246.36 [Kbytes/sec] received
+
+09:19:33 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 512
+Time taken for tests: 8.591 seconds
+Requests per second: 17459.6 [#/sec]
+Time per request: 58.649 [ms]
+Time per request (across all concurrent requests): 0.23 [ms]
+Transfer rate: 5132.16 [Kbytes/sec] received
+
+09:20:20 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 512
+Time taken for tests: 8.545 seconds
+Requests per second: 17557.4 [#/sec]
+Time per request: 58.323 [ms]
+Time per request (across all concurrent requests): 0.228 [ms]
+Transfer rate: 5160.93 [Kbytes/sec] received
+
+09:21:09 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 1024
+Time taken for tests: 13.279 seconds
+Requests per second: 11295.8 [#/sec]
+Time per request: 181.306 [ms]
+Time per request (across all concurrent requests): 0.354 [ms]
+Transfer rate: 3320.36 [Kbytes/sec] received
+
+09:22:02 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 1024
+Time taken for tests: 9.783 seconds
+Requests per second: 15333.1 [#/sec]
+Time per request: 133.568 [ms]
+Time per request (across all concurrent requests): 0.26 [ms]
+Transfer rate: 4507.08 [Kbytes/sec] received
+
+09:22:51 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 1024
+Time taken for tests: 9.810 seconds
+Requests per second: 15291.4 [#/sec]
+Time per request: 133.931 [ms]
+Time per request (across all concurrent requests): 0.262 [ms]
+Transfer rate: 4494.83 [Kbytes/sec] received
+
+09:23:39 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 1024
+Time taken for tests: 13.294 seconds
+Requests per second: 11284.5 [#/sec]
+Time per request: 181.487 [ms]
+Time per request (across all concurrent requests): 0.354 [ms]
+Transfer rate: 3317.04 [Kbytes/sec] received
+
+*********** Summary over 11261 observations  ************
+Min of CPU: 66.67%
+Max of CPU: 600.00%
+Avg of CPU: 576.71%
+Min of Virt Mem: 123.18 Mb
+Max of Virt Mem: 26432.04 Mb
+Avg of Virt Mem: 25052.25 Mb
+Min of Phys Mem: 49.30 Mb
+Max of Phys Mem: 343.19 Mb
+Avg of Phys Mem: 330.59 Mb
+
+Concurrency 2
+	CPU Min/Max/Avg: 94.12% / 599.88% / 589.45%
+	VMem Min/Max/Avg: 2140.23 Mb / 26432.01 Mb / 25829.83 Mb
+	PMem Min/Max/Avg: 51.11 Mb / 343.11 Mb / 337.11 Mb
+Concurrency 4
+	CPU Min/Max/Avg: 83.33% / 599.86% / 588.67%
+	VMem Min/Max/Avg: 2140.23 Mb / 26432.00 Mb / 25765.15 Mb
+	PMem Min/Max/Avg: 51.12 Mb / 343.09 Mb / 336.63 Mb
+Concurrency 8
+	CPU Min/Max/Avg: 66.67% / 599.83% / 583.36%
+	VMem Min/Max/Avg: 123.18 Mb / 26432.01 Mb / 25443.41 Mb
+	PMem Min/Max/Avg: 49.30 Mb / 342.89 Mb / 334.16 Mb
+Concurrency 16
+	CPU Min/Max/Avg: 100.00% / 600.00% / 558.45%
+	VMem Min/Max/Avg: 2212.82 Mb / 26432.02 Mb / 23926.11 Mb
+	PMem Min/Max/Avg: 53.95 Mb / 342.84 Mb / 320.33 Mb
+Concurrency 32
+	CPU Min/Max/Avg: 83.33% / 599.68% / 549.95%
+	VMem Min/Max/Avg: 2075.98 Mb / 26432.01 Mb / 23588.96 Mb
+	PMem Min/Max/Avg: 50.84 Mb / 342.95 Mb / 316.58 Mb
+Concurrency 64
+	CPU Min/Max/Avg: 100.00% / 599.67% / 557.47%
+	VMem Min/Max/Avg: 427.64 Mb / 26432.01 Mb / 23906.61 Mb
+	PMem Min/Max/Avg: 50.02 Mb / 342.80 Mb / 320.84 Mb
+Concurrency 128
+	CPU Min/Max/Avg: 93.75% / 599.79% / 562.00%
+	VMem Min/Max/Avg: 2749.09 Mb / 26432.02 Mb / 24031.24 Mb
+	PMem Min/Max/Avg: 55.71 Mb / 342.92 Mb / 322.16 Mb
+Concurrency 256
+	CPU Min/Max/Avg: 94.12% / 599.68% / 559.44%
+	VMem Min/Max/Avg: 2212.82 Mb / 26432.00 Mb / 23975.76 Mb
+	PMem Min/Max/Avg: 54.01 Mb / 342.96 Mb / 321.90 Mb
+Concurrency 512
+	CPU Min/Max/Avg: 87.50% / 599.68% / 559.55%
+	VMem Min/Max/Avg: 2140.23 Mb / 26432.04 Mb / 23987.49 Mb
+	PMem Min/Max/Avg: 51.08 Mb / 342.81 Mb / 321.90 Mb
+Concurrency 1024
+	CPU Min/Max/Avg: 94.44% / 599.58% / 565.84%
+	VMem Min/Max/Avg: 2140.36 Mb / 26432.04 Mb / 24450.36 Mb
+	PMem Min/Max/Avg: 51.15 Mb / 343.19 Mb / 326.48 Mb
+
+
+
+

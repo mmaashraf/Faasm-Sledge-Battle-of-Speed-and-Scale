@@ -1,0 +1,265 @@
+07:09:04 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 2
+Time taken for tests: 66.914 seconds
+Requests per second: 2241.68 [#/sec]
+Time per request: 0.892 [ms]
+Time per request (across all concurrent requests): 0.446 [ms]
+Transfer rate: 658.93 [Kbytes/sec] received
+
+07:10:50 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 2
+Time taken for tests: 67.824 seconds
+Requests per second: 2211.59 [#/sec]
+Time per request: 0.904 [ms]
+Time per request (across all concurrent requests): 0.452 [ms]
+Transfer rate: 650.09 [Kbytes/sec] received
+
+07:12:38 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 2
+Time taken for tests: 67.598 seconds
+Requests per second: 2218.99 [#/sec]
+Time per request: 0.901 [ms]
+Time per request (across all concurrent requests): 0.451 [ms]
+Transfer rate: 652.26 [Kbytes/sec] received
+
+07:14:26 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 4
+Time taken for tests: 30.420 seconds
+Requests per second: 4930.97 [#/sec]
+Time per request: 0.811 [ms]
+Time per request (across all concurrent requests): 0.203 [ms]
+Transfer rate: 1449.44 [Kbytes/sec] received
+
+07:15:36 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 4
+Time taken for tests: 30.245 seconds
+Requests per second: 4959.47 [#/sec]
+Time per request: 0.807 [ms]
+Time per request (across all concurrent requests): 0.202 [ms]
+Transfer rate: 1457.81 [Kbytes/sec] received
+
+07:16:46 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 4
+Time taken for tests: 30.200 seconds
+Requests per second: 4966.86 [#/sec]
+Time per request: 0.805 [ms]
+Time per request (across all concurrent requests): 0.201 [ms]
+Transfer rate: 1459.98 [Kbytes/sec] received
+
+07:17:57 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 8
+Time taken for tests: 13.462 seconds
+Requests per second: 11142.7 [#/sec]
+Time per request: 0.718 [ms]
+Time per request (across all concurrent requests): 0.09 [ms]
+Transfer rate: 3275.34 [Kbytes/sec] received
+
+07:18:50 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 8
+Time taken for tests: 13.495 seconds
+Requests per second: 11115.5 [#/sec]
+Time per request: 0.72 [ms]
+Time per request (across all concurrent requests): 0.09 [ms]
+Transfer rate: 3267.36 [Kbytes/sec] received
+
+07:19:43 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 8
+Time taken for tests: 13.477 seconds
+Requests per second: 11130.2 [#/sec]
+Time per request: 0.719 [ms]
+Time per request (across all concurrent requests): 0.09 [ms]
+Transfer rate: 3271.68 [Kbytes/sec] received
+
+07:20:36 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 16
+Time taken for tests: 8.320 seconds
+Requests per second: 18028.6 [#/sec]
+Time per request: 0.887 [ms]
+Time per request (across all concurrent requests): 0.055 [ms]
+Transfer rate: 5299.43 [Kbytes/sec] received
+
+07:21:24 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 16
+Time taken for tests: 7.861 seconds
+Requests per second: 19081.2 [#/sec]
+Time per request: 0.839 [ms]
+Time per request (across all concurrent requests): 0.052 [ms]
+Transfer rate: 5608.82 [Kbytes/sec] received
+
+07:22:10 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 16
+Time taken for tests: 8.161 seconds
+Requests per second: 18380.9 [#/sec]
+Time per request: 0.87 [ms]
+Time per request (across all concurrent requests): 0.054 [ms]
+Transfer rate: 5402.98 [Kbytes/sec] received
+
+07:22:57 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 32
+Time taken for tests: 6.963 seconds
+Requests per second: 21543.2 [#/sec]
+Time per request: 1.485 [ms]
+Time per request (across all concurrent requests): 0.046 [ms]
+Transfer rate: 6332.52 [Kbytes/sec] received
+
+07:23:41 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 32
+Time taken for tests: 7.064 seconds
+Requests per second: 21235.5 [#/sec]
+Time per request: 1.507 [ms]
+Time per request (across all concurrent requests): 0.047 [ms]
+Transfer rate: 6242.09 [Kbytes/sec] received
+
+07:24:26 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 32
+Time taken for tests: 6.565 seconds
+Requests per second: 22846.8 [#/sec]
+Time per request: 1.401 [ms]
+Time per request (across all concurrent requests): 0.044 [ms]
+Transfer rate: 6715.7 [Kbytes/sec] received
+
+07:25:12 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 64
+Time taken for tests: 6.644 seconds
+Requests per second: 22575.6 [#/sec]
+Time per request: 2.835 [ms]
+Time per request (across all concurrent requests): 0.044 [ms]
+Transfer rate: 6636 [Kbytes/sec] received
+
+07:25:55 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 64
+Time taken for tests: 6.754 seconds
+Requests per second: 22207.7 [#/sec]
+Time per request: 2.882 [ms]
+Time per request (across all concurrent requests): 0.045 [ms]
+Transfer rate: 6527.84 [Kbytes/sec] received
+
+07:26:40 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 64
+Time taken for tests: 6.926 seconds
+Requests per second: 21657.5 [#/sec]
+Time per request: 2.955 [ms]
+Time per request (across all concurrent requests): 0.046 [ms]
+Transfer rate: 6366.12 [Kbytes/sec] received
+
+07:27:27 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 128
+Time taken for tests: 6.939 seconds
+Requests per second: 21617.7 [#/sec]
+Time per request: 5.921 [ms]
+Time per request (across all concurrent requests): 0.046 [ms]
+Transfer rate: 6354.43 [Kbytes/sec] received
+
+07:28:11 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 128
+Time taken for tests: 7.109 seconds
+Requests per second: 21100.2 [#/sec]
+Time per request: 6.066 [ms]
+Time per request (across all concurrent requests): 0.047 [ms]
+Transfer rate: 6202.29 [Kbytes/sec] received
+
+07:28:56 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 128
+Time taken for tests: 6.827 seconds
+Requests per second: 21972 [#/sec]
+Time per request: 5.826 [ms]
+Time per request (across all concurrent requests): 0.046 [ms]
+Transfer rate: 6458.57 [Kbytes/sec] received
+
+07:29:42 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 256
+Time taken for tests: 6.943 seconds
+Requests per second: 21605.1 [#/sec]
+Time per request: 11.849 [ms]
+Time per request (across all concurrent requests): 0.046 [ms]
+Transfer rate: 6350.73 [Kbytes/sec] received
+
+07:30:28 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 256
+Time taken for tests: 6.712 seconds
+Requests per second: 22347.5 [#/sec]
+Time per request: 11.455 [ms]
+Time per request (across all concurrent requests): 0.045 [ms]
+Transfer rate: 6568.93 [Kbytes/sec] received
+
+07:31:13 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 256
+Time taken for tests: 6.262 seconds
+Requests per second: 23952.1 [#/sec]
+Time per request: 10.688 [ms]
+Time per request (across all concurrent requests): 0.042 [ms]
+Transfer rate: 7040.61 [Kbytes/sec] received
+
+07:31:59 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 512
+Time taken for tests: 6.841 seconds
+Requests per second: 21926.5 [#/sec]
+Time per request: 23.351 [ms]
+Time per request (across all concurrent requests): 0.046 [ms]
+Transfer rate: 6445.18 [Kbytes/sec] received
+
+07:32:44 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 512
+Time taken for tests: 7.030 seconds
+Requests per second: 21336.6 [#/sec]
+Time per request: 23.996 [ms]
+Time per request (across all concurrent requests): 0.047 [ms]
+Transfer rate: 6271.8 [Kbytes/sec] received
+
+07:33:30 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 512
+Time taken for tests: 7.205 seconds
+Requests per second: 20818.7 [#/sec]
+Time per request: 24.593 [ms]
+Time per request (across all concurrent requests): 0.048 [ms]
+Transfer rate: 6119.55 [Kbytes/sec] received
+
+07:34:17 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 1024
+Time taken for tests: 9.855 seconds
+Requests per second: 15221 [#/sec]
+Time per request: 67.275 [ms]
+Time per request (across all concurrent requests): 0.066 [ms]
+Transfer rate: 4474.14 [Kbytes/sec] received
+
+07:35:06 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 1024
+Time taken for tests: 7.896 seconds
+Requests per second: 18996.5 [#/sec]
+Time per request: 53.905 [ms]
+Time per request (across all concurrent requests): 0.053 [ms]
+Transfer rate: 5583.92 [Kbytes/sec] received
+
+07:35:51 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 1024
+Time taken for tests: 7.807 seconds
+Requests per second: 19213.5 [#/sec]
+Time per request: 53.296 [ms]
+Time per request (across all concurrent requests): 0.052 [ms]
+Transfer rate: 5647.71 [Kbytes/sec] received
+
+*********** Summary over 4417 observations  ************
+Min of CPU: 91.67%
+Max of CPU: 1599.68%
+Avg of CPU: 1400.60%
+Min of Virt Mem: 1563.62 Mb
+Max of Virt Mem: 59213.60 Mb
+Avg of Virt Mem: 48343.32 Mb
+Min of Phys Mem: 39.82 Mb
+Max of Phys Mem: 900.37 Mb
+Avg of Phys Mem: 785.93 Mb
+
+Concurrency 2
+	CPU Min/Max/Avg: 92.31% / 1599.19% / 1512.20%
+	VMem Min/Max/Avg: 1564.12 Mb / 59213.60 Mb / 54669.64 Mb
+	PMem Min/Max/Avg: 50.60 Mb / 900.37 Mb / 850.42 Mb
+Concurrency 4
+	CPU Min/Max/Avg: 91.67% / 1599.26% / 1436.53%
+	VMem Min/Max/Avg: 1564.24 Mb / 59213.60 Mb / 50683.00 Mb
+	PMem Min/Max/Avg: 51.97 Mb / 899.79 Mb / 806.88 Mb
+Concurrency 8
+	CPU Min/Max/Avg: 100.00% / 1599.03% / 1390.66%
+	VMem Min/Max/Avg: 1563.99 Mb / 59213.60 Mb / 47798.20 Mb
+	PMem Min/Max/Avg: 50.55 Mb / 900.32 Mb / 780.69 Mb
+Concurrency 16
+	CPU Min/Max/Avg: 100.00% / 1598.37% / 1361.71%
+	VMem Min/Max/Avg: 1564.24 Mb / 59213.60 Mb / 45831.85 Mb
+	PMem Min/Max/Avg: 52.16 Mb / 899.79 Mb / 765.36 Mb
+Concurrency 32
+	CPU Min/Max/Avg: 94.12% / 1598.46% / 1336.28%
+	VMem Min/Max/Avg: 1564.24 Mb / 59213.60 Mb / 44369.54 Mb
+	PMem Min/Max/Avg: 39.82 Mb / 899.71 Mb / 748.23 Mb
+Concurrency 64
+	CPU Min/Max/Avg: 100.00% / 1599.38% / 1339.08%
+	VMem Min/Max/Avg: 1563.62 Mb / 59213.60 Mb / 44671.22 Mb
+	PMem Min/Max/Avg: 50.38 Mb / 899.29 Mb / 749.02 Mb
+Concurrency 128
+	CPU Min/Max/Avg: 92.31% / 1599.10% / 1324.93%
+	VMem Min/Max/Avg: 1564.24 Mb / 59213.60 Mb / 44072.45 Mb
+	PMem Min/Max/Avg: 51.96 Mb / 899.58 Mb / 742.06 Mb
+Concurrency 256
+	CPU Min/Max/Avg: 91.67% / 1599.68% / 1363.59%
+	VMem Min/Max/Avg: 1564.24 Mb / 59213.60 Mb / 45143.32 Mb
+	PMem Min/Max/Avg: 52.26 Mb / 899.16 Mb / 760.31 Mb
+Concurrency 512
+	CPU Min/Max/Avg: 100.00% / 1598.78% / 1305.61%
+	VMem Min/Max/Avg: 1564.24 Mb / 59213.60 Mb / 43424.84 Mb
+	PMem Min/Max/Avg: 52.11 Mb / 899.70 Mb / 731.87 Mb
+Concurrency 1024
+	CPU Min/Max/Avg: 91.67% / 1599.09% / 1309.55%
+	VMem Min/Max/Avg: 1564.12 Mb / 59213.60 Mb / 43851.89 Mb
+	PMem Min/Max/Avg: 50.63 Mb / 899.59 Mb / 735.38 Mb
+
+
+
+

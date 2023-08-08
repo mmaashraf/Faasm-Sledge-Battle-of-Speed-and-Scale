@@ -1,0 +1,206 @@
+06:22:39 - Workers: 4 | App: noop | Total Requests: 150000 | Request concurrency: 12
+Time taken for tests: 20.832 seconds
+Requests per second: 7200.6 [#/sec]
+Time per request: 1.667 [ms]
+Time per request (across all concurrent requests): 0.139 [ms]
+Transfer rate: 2116.58 [Kbytes/sec] received
+
+06:23:31 - Workers: 4 | App: noop | Total Requests: 150000 | Request concurrency: 24
+Time taken for tests: 6.299 seconds
+Requests per second: 23813.5 [#/sec]
+Time per request: 1.008 [ms]
+Time per request (across all concurrent requests): 0.042 [ms]
+Transfer rate: 6999.85 [Kbytes/sec] received
+
+06:24:08 - Workers: 4 | App: noop | Total Requests: 150000 | Request concurrency: 36
+Time taken for tests: 6.304 seconds
+Requests per second: 23794.8 [#/sec]
+Time per request: 1.513 [ms]
+Time per request (across all concurrent requests): 0.042 [ms]
+Transfer rate: 6994.36 [Kbytes/sec] received
+
+06:24:45 - Workers: 4 | App: noop | Total Requests: 150000 | Request concurrency: 48
+Time taken for tests: 6.148 seconds
+Requests per second: 24399.7 [#/sec]
+Time per request: 1.967 [ms]
+Time per request (across all concurrent requests): 0.041 [ms]
+Transfer rate: 7172.18 [Kbytes/sec] received
+
+06:25:22 - Workers: 4 | App: noop | Total Requests: 150000 | Request concurrency: 60
+Time taken for tests: 6.607 seconds
+Requests per second: 22701.9 [#/sec]
+Time per request: 2.643 [ms]
+Time per request (across all concurrent requests): 0.044 [ms]
+Transfer rate: 6673.13 [Kbytes/sec] received
+
+06:25:59 - Workers: 4 | App: noop | Total Requests: 150000 | Request concurrency: 72
+Time taken for tests: 6.413 seconds
+Requests per second: 23390.6 [#/sec]
+Time per request: 3.078 [ms]
+Time per request (across all concurrent requests): 0.043 [ms]
+Transfer rate: 6875.57 [Kbytes/sec] received
+
+06:26:35 - Workers: 4 | App: noop | Total Requests: 150000 | Request concurrency: 84
+Time taken for tests: 6.832 seconds
+Requests per second: 21956.7 [#/sec]
+Time per request: 3.826 [ms]
+Time per request (across all concurrent requests): 0.046 [ms]
+Transfer rate: 6454.08 [Kbytes/sec] received
+
+06:27:14 - Workers: 4 | App: noop | Total Requests: 150000 | Request concurrency: 96
+Time taken for tests: 6.588 seconds
+Requests per second: 22770.1 [#/sec]
+Time per request: 4.216 [ms]
+Time per request (across all concurrent requests): 0.044 [ms]
+Transfer rate: 6693.16 [Kbytes/sec] received
+
+06:27:50 - Workers: 4 | App: noop | Total Requests: 150000 | Request concurrency: 108
+Time taken for tests: 6.513 seconds
+Requests per second: 23030 [#/sec]
+Time per request: 4.69 [ms]
+Time per request (across all concurrent requests): 0.043 [ms]
+Transfer rate: 6769.55 [Kbytes/sec] received
+
+06:28:28 - Workers: 4 | App: noop | Total Requests: 150000 | Request concurrency: 120
+Time taken for tests: 6.083 seconds
+Requests per second: 24658.7 [#/sec]
+Time per request: 4.866 [ms]
+Time per request (across all concurrent requests): 0.041 [ms]
+Transfer rate: 7248.3 [Kbytes/sec] received
+
+06:29:04 - Workers: 4 | App: noop | Total Requests: 150000 | Request concurrency: 132
+Time taken for tests: 6.212 seconds
+Requests per second: 24146.9 [#/sec]
+Time per request: 5.467 [ms]
+Time per request (across all concurrent requests): 0.041 [ms]
+Transfer rate: 7097.88 [Kbytes/sec] received
+
+06:29:40 - Workers: 4 | App: noop | Total Requests: 150000 | Request concurrency: 144
+Time taken for tests: 6.191 seconds
+Requests per second: 24229.1 [#/sec]
+Time per request: 5.943 [ms]
+Time per request (across all concurrent requests): 0.041 [ms]
+Transfer rate: 7122.03 [Kbytes/sec] received
+
+06:30:16 - Workers: 4 | App: noop | Total Requests: 150000 | Request concurrency: 156
+Time taken for tests: 5.661 seconds
+Requests per second: 26499.1 [#/sec]
+Time per request: 5.887 [ms]
+Time per request (across all concurrent requests): 0.038 [ms]
+Transfer rate: 7789.29 [Kbytes/sec] received
+
+06:30:52 - Workers: 4 | App: noop | Total Requests: 150000 | Request concurrency: 168
+Time taken for tests: 6.098 seconds
+Requests per second: 24598.2 [#/sec]
+Time per request: 6.83 [ms]
+Time per request (across all concurrent requests): 0.041 [ms]
+Transfer rate: 7230.52 [Kbytes/sec] received
+
+06:31:27 - Workers: 4 | App: noop | Total Requests: 150000 | Request concurrency: 180
+Time taken for tests: 6.387 seconds
+Requests per second: 23484.6 [#/sec]
+Time per request: 7.665 [ms]
+Time per request (across all concurrent requests): 0.043 [ms]
+Transfer rate: 6903.2 [Kbytes/sec] received
+
+06:32:04 - Workers: 4 | App: noop | Total Requests: 150000 | Request concurrency: 192
+Time taken for tests: 5.884 seconds
+Requests per second: 25491.8 [#/sec]
+Time per request: 7.532 [ms]
+Time per request (across all concurrent requests): 0.039 [ms]
+Transfer rate: 7493.21 [Kbytes/sec] received
+
+06:32:40 - Workers: 4 | App: noop | Total Requests: 150000 | Request concurrency: 204
+Time taken for tests: 5.635 seconds
+Requests per second: 26619.5 [#/sec]
+Time per request: 7.664 [ms]
+Time per request (across all concurrent requests): 0.038 [ms]
+Transfer rate: 7824.67 [Kbytes/sec] received
+
+06:33:15 - Workers: 4 | App: noop | Total Requests: 150000 | Request concurrency: 216
+Time taken for tests: 5.977 seconds
+Requests per second: 25096.6 [#/sec]
+Time per request: 8.607 [ms]
+Time per request (across all concurrent requests): 0.04 [ms]
+Transfer rate: 7377.02 [Kbytes/sec] received
+
+06:33:51 - Workers: 4 | App: noop | Total Requests: 150000 | Request concurrency: 228
+Time taken for tests: 5.862 seconds
+Requests per second: 25588.9 [#/sec]
+Time per request: 8.91 [ms]
+Time per request (across all concurrent requests): 0.039 [ms]
+Transfer rate: 7521.74 [Kbytes/sec] received
+
+06:34:27 - Workers: 4 | App: noop | Total Requests: 150000 | Request concurrency: 240
+Time taken for tests: 5.965 seconds
+Requests per second: 25146.3 [#/sec]
+Time per request: 9.544 [ms]
+Time per request (across all concurrent requests): 0.04 [ms]
+Transfer rate: 7391.62 [Kbytes/sec] received
+
+06:35:03 - Workers: 4 | App: noop | Total Requests: 150000 | Request concurrency: 252
+Time taken for tests: 6.080 seconds
+Requests per second: 24672 [#/sec]
+Time per request: 10.214 [ms]
+Time per request (across all concurrent requests): 0.041 [ms]
+Transfer rate: 7252.22 [Kbytes/sec] received
+
+*********** Summary over 1779 observations  ************
+Min of CPU: 92.31%
+Max of CPU: 399.90%
+Avg of CPU: 385.32%
+Min of Virt Mem: 1563.74 Mb
+Max of Virt Mem: 14803.40 Mb
+Avg of Virt Mem: 12839.66 Mb
+Min of Phys Mem: 50.23 Mb
+Max of Phys Mem: 225.36 Mb
+Avg of Phys Mem: 216.79 Mb
+
+Concurrency 12
+	CPU Min/Max/Avg: 92.31% / 399.77% / 382.23%
+	VMem Min/Max/Avg: 1564.24 Mb / 14803.40 Mb / 13452.99 Mb
+	PMem Min/Max/Avg: 52.24 Mb / 225.18 Mb / 216.52 Mb
+Concurrency 24
+	CPU Min/Max/Avg: 185.16% / 399.80% / 390.50%
+	VMem Min/Max/Avg: 3128.48 Mb / 14803.40 Mb / 12788.18 Mb
+	PMem Min/Max/Avg: 104.05 Mb / 225.36 Mb / 219.91 Mb
+Concurrency 36
+	CPU Min/Max/Avg: 100.00% / 399.80% / 381.78%
+	VMem Min/Max/Avg: 1564.24 Mb / 14803.40 Mb / 12540.80 Mb
+	PMem Min/Max/Avg: 51.86 Mb / 224.41 Mb / 214.33 Mb
+Concurrency 48
+	CPU Min/Max/Avg: 192.31% / 399.90% / 388.91%
+	VMem Min/Max/Avg: 3128.11 Mb / 14803.40 Mb / 12675.01 Mb
+	PMem Min/Max/Avg: 102.57 Mb / 225.05 Mb / 217.34 Mb
+Concurrency 60
+	CPU Min/Max/Avg: 190.91% / 399.90% / 391.18%
+	VMem Min/Max/Avg: 3128.36 Mb / 14803.40 Mb / 12813.36 Mb
+	PMem Min/Max/Avg: 102.59 Mb / 224.85 Mb / 218.12 Mb
+Concurrency 72
+	CPU Min/Max/Avg: 183.33% / 399.70% / 383.96%
+	VMem Min/Max/Avg: 3128.36 Mb / 14803.40 Mb / 12800.52 Mb
+	PMem Min/Max/Avg: 103.09 Mb / 225.24 Mb / 218.45 Mb
+Concurrency 84
+	CPU Min/Max/Avg: 92.86% / 399.90% / 390.99%
+	VMem Min/Max/Avg: 1564.24 Mb / 14803.40 Mb / 12883.42 Mb
+	PMem Min/Max/Avg: 52.16 Mb / 225.03 Mb / 218.48 Mb
+Concurrency 96
+	CPU Min/Max/Avg: 186.43% / 399.70% / 389.43%
+	VMem Min/Max/Avg: 3128.48 Mb / 14803.40 Mb / 13069.48 Mb
+	PMem Min/Max/Avg: 104.23 Mb / 225.04 Mb / 220.79 Mb
+Concurrency 108
+	CPU Min/Max/Avg: 100.00% / 399.80% / 378.42%
+	VMem Min/Max/Avg: 1563.87 Mb / 14803.40 Mb / 12460.67 Mb
+	PMem Min/Max/Avg: 50.23 Mb / 225.00 Mb / 213.00 Mb
+Concurrency 120
+	CPU Min/Max/Avg: 100.00% / 399.80% / 382.44%
+	VMem Min/Max/Avg: 1564.24 Mb / 14803.40 Mb / 12555.81 Mb
+	PMem Min/Max/Avg: 51.90 Mb / 224.64 Mb / 214.86 Mb
+Concurrency 132
+	CPU Min/Max/Avg: 100.00% / 399.90% / 382.48%
+	VMem Min/Max/Avg: 1563.74 Mb / 14803.40 Mb / 12460.92 Mb
+	PMem Min/Max/Avg: 50.23 Mb / 224.71 Mb / 213.25 Mb
+
+
+
+

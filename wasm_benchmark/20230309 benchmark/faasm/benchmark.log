@@ -1,0 +1,2271 @@
+Stopping Faasm on host node0...DONE
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+21:15:48 - Workers: 1 | App: fibonacci | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+21:19:36 - Workers: 1 | App: fibonacci | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+21:23:22 - Workers: 1 | App: fibonacci | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+21:27:08 - Workers: 1 | App: fibonacci | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+21:31:04 - Workers: 1 | App: fibonacci | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+21:33:46 - Workers: 1 | App: fibonacci | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+21:36:24 - Workers: 1 | App: fibonacci | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+21:39:04 - Workers: 1 | App: fibonacci | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+21:41:44 - Workers: 1 | App: fibonacci | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+21:43:41 - Workers: 1 | App: fibonacci | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+21:45:36 - Workers: 1 | App: fibonacci | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+21:47:31 - Workers: 1 | App: fibonacci | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+21:49:24 - Workers: 1 | App: fibonacci | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+21:51:00 - Workers: 1 | App: fibonacci | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+21:52:32 - Workers: 1 | App: fibonacci | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+21:53:49 - Workers: 1 | App: fibonacci | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+21:55:27 - Workers: 1 | App: fibonacci | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+21:56:07 - Workers: 1 | App: fibonacci | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+21:56:47 - Workers: 1 | App: fibonacci | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+21:57:28 - Workers: 1 | App: fibonacci | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+21:58:10 - Workers: 1 | App: fibonacci | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+21:58:51 - Workers: 1 | App: fibonacci | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+21:59:31 - Workers: 1 | App: fibonacci | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+22:00:11 - Workers: 1 | App: fibonacci | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+22:00:54 - Workers: 1 | App: fibonacci | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+22:01:35 - Workers: 1 | App: fibonacci | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+22:02:15 - Workers: 1 | App: fibonacci | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+22:02:56 - Workers: 1 | App: fibonacci | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+22:03:38 - Workers: 1 | App: fibonacci | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+22:04:19 - Workers: 1 | App: fibonacci | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+22:04:59 - Workers: 1 | App: fibonacci | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+22:05:39 - Workers: 1 | App: fibonacci | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+22:06:22 - Workers: 1 | App: fibonacci | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+22:07:02 - Workers: 1 | App: fibonacci | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+22:07:42 - Workers: 1 | App: fibonacci | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+22:08:23 - Workers: 1 | App: fibonacci | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+22:09:06 - Workers: 1 | App: fibonacci | Total Requests: 150000 | Request concurrency: 1024
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+22:09:49 - Workers: 1 | App: fibonacci | Total Requests: 150000 | Request concurrency: 1024
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+22:10:32 - Workers: 1 | App: fibonacci | Total Requests: 150000 | Request concurrency: 1024
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+22:11:12 - Workers: 1 | App: fibonacci | Total Requests: 150000 | Request concurrency: 1024
+Stopping Monitoring script on host node0
+Compute the min, max, average of CPU, Memory Usage
+
+Stopping Faasm on host node0...DONE
+Creating network graph using gnuplot for a single configuration
+
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+22:12:34 - Workers: 4 | App: fibonacci | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+22:15:00 - Workers: 4 | App: fibonacci | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+22:17:26 - Workers: 4 | App: fibonacci | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+22:19:46 - Workers: 4 | App: fibonacci | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+22:22:12 - Workers: 4 | App: fibonacci | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+22:24:01 - Workers: 4 | App: fibonacci | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+22:25:50 - Workers: 4 | App: fibonacci | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+22:27:38 - Workers: 4 | App: fibonacci | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+22:29:27 - Workers: 4 | App: fibonacci | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+22:30:58 - Workers: 4 | App: fibonacci | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+22:32:26 - Workers: 4 | App: fibonacci | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+22:33:55 - Workers: 4 | App: fibonacci | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+22:35:28 - Workers: 4 | App: fibonacci | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+22:36:14 - Workers: 4 | App: fibonacci | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+22:37:00 - Workers: 4 | App: fibonacci | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+22:37:47 - Workers: 4 | App: fibonacci | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+22:38:35 - Workers: 4 | App: fibonacci | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+22:39:21 - Workers: 4 | App: fibonacci | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+22:40:07 - Workers: 4 | App: fibonacci | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+22:40:53 - Workers: 4 | App: fibonacci | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+22:41:41 - Workers: 4 | App: fibonacci | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+22:42:27 - Workers: 4 | App: fibonacci | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+22:43:14 - Workers: 4 | App: fibonacci | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+22:43:59 - Workers: 4 | App: fibonacci | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+22:44:47 - Workers: 4 | App: fibonacci | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+22:45:33 - Workers: 4 | App: fibonacci | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+22:46:19 - Workers: 4 | App: fibonacci | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+22:47:04 - Workers: 4 | App: fibonacci | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+22:47:53 - Workers: 4 | App: fibonacci | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+22:48:40 - Workers: 4 | App: fibonacci | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+22:49:26 - Workers: 4 | App: fibonacci | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+22:50:11 - Workers: 4 | App: fibonacci | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+22:50:58 - Workers: 4 | App: fibonacci | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+22:51:45 - Workers: 4 | App: fibonacci | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+22:52:30 - Workers: 4 | App: fibonacci | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+22:53:16 - Workers: 4 | App: fibonacci | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+22:54:04 - Workers: 4 | App: fibonacci | Total Requests: 150000 | Request concurrency: 1024
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+22:54:57 - Workers: 4 | App: fibonacci | Total Requests: 150000 | Request concurrency: 1024
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+22:55:48 - Workers: 4 | App: fibonacci | Total Requests: 150000 | Request concurrency: 1024
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+22:56:35 - Workers: 4 | App: fibonacci | Total Requests: 150000 | Request concurrency: 1024
+Stopping Monitoring script on host node0
+Compute the min, max, average of CPU, Memory Usage
+
+Stopping Faasm on host node0...DONE
+Creating network graph using gnuplot for a single configuration
+
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+22:57:44 - Workers: 6 | App: fibonacci | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+22:59:49 - Workers: 6 | App: fibonacci | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+23:01:56 - Workers: 6 | App: fibonacci | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+23:04:03 - Workers: 6 | App: fibonacci | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+23:06:13 - Workers: 6 | App: fibonacci | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+23:07:59 - Workers: 6 | App: fibonacci | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+23:09:47 - Workers: 6 | App: fibonacci | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+23:11:34 - Workers: 6 | App: fibonacci | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+23:13:24 - Workers: 6 | App: fibonacci | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+23:14:41 - Workers: 6 | App: fibonacci | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+23:15:58 - Workers: 6 | App: fibonacci | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+23:17:16 - Workers: 6 | App: fibonacci | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+23:18:36 - Workers: 6 | App: fibonacci | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+23:19:25 - Workers: 6 | App: fibonacci | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+23:20:15 - Workers: 6 | App: fibonacci | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+23:21:03 - Workers: 6 | App: fibonacci | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+23:21:55 - Workers: 6 | App: fibonacci | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+23:22:43 - Workers: 6 | App: fibonacci | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+23:23:31 - Workers: 6 | App: fibonacci | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+23:24:20 - Workers: 6 | App: fibonacci | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+23:25:10 - Workers: 6 | App: fibonacci | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+23:25:59 - Workers: 6 | App: fibonacci | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+23:26:48 - Workers: 6 | App: fibonacci | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+23:27:38 - Workers: 6 | App: fibonacci | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+23:28:28 - Workers: 6 | App: fibonacci | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+23:29:16 - Workers: 6 | App: fibonacci | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+23:30:05 - Workers: 6 | App: fibonacci | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+23:30:53 - Workers: 6 | App: fibonacci | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+23:31:43 - Workers: 6 | App: fibonacci | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+23:32:32 - Workers: 6 | App: fibonacci | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+23:33:20 - Workers: 6 | App: fibonacci | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+23:34:09 - Workers: 6 | App: fibonacci | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+23:35:01 - Workers: 6 | App: fibonacci | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+23:35:49 - Workers: 6 | App: fibonacci | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+23:36:37 - Workers: 6 | App: fibonacci | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+23:37:26 - Workers: 6 | App: fibonacci | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+23:38:16 - Workers: 6 | App: fibonacci | Total Requests: 150000 | Request concurrency: 1024
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+23:39:09 - Workers: 6 | App: fibonacci | Total Requests: 150000 | Request concurrency: 1024
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+23:39:58 - Workers: 6 | App: fibonacci | Total Requests: 150000 | Request concurrency: 1024
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+23:40:47 - Workers: 6 | App: fibonacci | Total Requests: 150000 | Request concurrency: 1024
+Stopping Monitoring script on host node0
+Compute the min, max, average of CPU, Memory Usage
+
+Stopping Faasm on host node0...DONE
+Creating network graph using gnuplot for a single configuration
+
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+23:41:58 - Workers: 8 | App: fibonacci | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+23:43:55 - Workers: 8 | App: fibonacci | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+23:45:53 - Workers: 8 | App: fibonacci | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+23:47:51 - Workers: 8 | App: fibonacci | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+23:49:51 - Workers: 8 | App: fibonacci | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+23:51:23 - Workers: 8 | App: fibonacci | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+23:52:55 - Workers: 8 | App: fibonacci | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+23:54:25 - Workers: 8 | App: fibonacci | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+23:55:58 - Workers: 8 | App: fibonacci | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+23:56:56 - Workers: 8 | App: fibonacci | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+23:57:56 - Workers: 8 | App: fibonacci | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+23:58:54 - Workers: 8 | App: fibonacci | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+23:59:53 - Workers: 8 | App: fibonacci | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+00:00:45 - Workers: 8 | App: fibonacci | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+00:01:37 - Workers: 8 | App: fibonacci | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+00:02:28 - Workers: 8 | App: fibonacci | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+00:03:22 - Workers: 8 | App: fibonacci | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+00:04:13 - Workers: 8 | App: fibonacci | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+00:05:03 - Workers: 8 | App: fibonacci | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+00:05:54 - Workers: 8 | App: fibonacci | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+00:06:47 - Workers: 8 | App: fibonacci | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+00:07:38 - Workers: 8 | App: fibonacci | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+00:08:30 - Workers: 8 | App: fibonacci | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+00:09:21 - Workers: 8 | App: fibonacci | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+00:10:15 - Workers: 8 | App: fibonacci | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+00:11:06 - Workers: 8 | App: fibonacci | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+00:11:57 - Workers: 8 | App: fibonacci | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+00:12:49 - Workers: 8 | App: fibonacci | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+00:13:42 - Workers: 8 | App: fibonacci | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+00:14:33 - Workers: 8 | App: fibonacci | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+00:15:25 - Workers: 8 | App: fibonacci | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+00:16:17 - Workers: 8 | App: fibonacci | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+00:17:09 - Workers: 8 | App: fibonacci | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+00:18:03 - Workers: 8 | App: fibonacci | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+00:18:55 - Workers: 8 | App: fibonacci | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+00:19:46 - Workers: 8 | App: fibonacci | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+00:20:41 - Workers: 8 | App: fibonacci | Total Requests: 150000 | Request concurrency: 1024
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+00:21:33 - Workers: 8 | App: fibonacci | Total Requests: 150000 | Request concurrency: 1024
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+00:22:30 - Workers: 8 | App: fibonacci | Total Requests: 150000 | Request concurrency: 1024
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+00:23:22 - Workers: 8 | App: fibonacci | Total Requests: 150000 | Request concurrency: 1024
+Stopping Monitoring script on host node0
+Compute the min, max, average of CPU, Memory Usage
+
+Stopping Faasm on host node0...DONE
+Creating network graph using gnuplot for a single configuration
+
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+00:24:42 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+00:26:43 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+00:28:46 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+00:30:50 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+00:32:54 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+00:34:20 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+00:35:45 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+00:37:12 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+00:38:37 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+00:39:44 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+00:40:52 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+00:42:00 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+00:43:07 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+00:44:08 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+00:45:09 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+00:46:12 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+00:47:15 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+00:48:15 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+00:49:17 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+00:50:17 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+00:51:20 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+00:52:21 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+00:53:21 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+00:54:22 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+00:55:25 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+00:56:25 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+00:57:25 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+00:58:24 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+00:59:26 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+01:00:25 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+01:01:25 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+01:02:24 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+01:03:27 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+01:04:27 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+01:05:29 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+01:06:30 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+01:07:32 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 1024
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+01:08:34 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 1024
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+01:09:41 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 1024
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+01:10:48 - Workers: 16 | App: fibonacci | Total Requests: 150000 | Request concurrency: 1024
+Stopping Monitoring script on host node0
+Compute the min, max, average of CPU, Memory Usage
+
+Stopping Faasm on host node0...DONE
+Creating network graph using gnuplot for a single configuration
+
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+01:12:14 - Workers: 32 | App: fibonacci | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+01:14:34 - Workers: 32 | App: fibonacci | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+01:16:52 - Workers: 32 | App: fibonacci | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+01:19:09 - Workers: 32 | App: fibonacci | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+01:21:30 - Workers: 32 | App: fibonacci | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+01:23:12 - Workers: 32 | App: fibonacci | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+01:24:53 - Workers: 32 | App: fibonacci | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+01:26:34 - Workers: 32 | App: fibonacci | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+01:28:16 - Workers: 32 | App: fibonacci | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+01:29:38 - Workers: 32 | App: fibonacci | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+01:31:01 - Workers: 32 | App: fibonacci | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+01:32:22 - Workers: 32 | App: fibonacci | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+01:33:45 - Workers: 32 | App: fibonacci | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+01:35:01 - Workers: 32 | App: fibonacci | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+01:36:18 - Workers: 32 | App: fibonacci | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+01:37:35 - Workers: 32 | App: fibonacci | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+01:38:52 - Workers: 32 | App: fibonacci | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+01:40:08 - Workers: 32 | App: fibonacci | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+01:41:25 - Workers: 32 | App: fibonacci | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+01:42:40 - Workers: 32 | App: fibonacci | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+01:43:56 - Workers: 32 | App: fibonacci | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+01:45:11 - Workers: 32 | App: fibonacci | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+01:46:26 - Workers: 32 | App: fibonacci | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+01:47:41 - Workers: 32 | App: fibonacci | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+01:48:58 - Workers: 32 | App: fibonacci | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+01:50:13 - Workers: 32 | App: fibonacci | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+01:51:30 - Workers: 32 | App: fibonacci | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+01:52:45 - Workers: 32 | App: fibonacci | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+01:54:03 - Workers: 32 | App: fibonacci | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+01:55:19 - Workers: 32 | App: fibonacci | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+01:56:34 - Workers: 32 | App: fibonacci | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+01:57:50 - Workers: 32 | App: fibonacci | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+01:59:08 - Workers: 32 | App: fibonacci | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+02:00:23 - Workers: 32 | App: fibonacci | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+02:01:37 - Workers: 32 | App: fibonacci | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+02:02:51 - Workers: 32 | App: fibonacci | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+02:04:08 - Workers: 32 | App: fibonacci | Total Requests: 150000 | Request concurrency: 1024
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+02:05:29 - Workers: 32 | App: fibonacci | Total Requests: 150000 | Request concurrency: 1024
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+02:06:49 - Workers: 32 | App: fibonacci | Total Requests: 150000 | Request concurrency: 1024
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+02:08:10 - Workers: 32 | App: fibonacci | Total Requests: 150000 | Request concurrency: 1024
+Stopping Monitoring script on host node0
+Compute the min, max, average of CPU, Memory Usage
+
+Stopping Faasm on host node0...DONE
+Creating network graph using gnuplot for a single configuration
+
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+02:09:28 - Workers: 1 | App: noop | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+02:13:14 - Workers: 1 | App: noop | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+02:17:10 - Workers: 1 | App: noop | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+02:21:06 - Workers: 1 | App: noop | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+02:25:04 - Workers: 1 | App: noop | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+02:27:42 - Workers: 1 | App: noop | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+02:30:21 - Workers: 1 | App: noop | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+02:33:00 - Workers: 1 | App: noop | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+02:35:40 - Workers: 1 | App: noop | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+02:37:37 - Workers: 1 | App: noop | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+02:39:31 - Workers: 1 | App: noop | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+02:41:31 - Workers: 1 | App: noop | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+02:43:29 - Workers: 1 | App: noop | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+02:44:42 - Workers: 1 | App: noop | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+02:45:51 - Workers: 1 | App: noop | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+02:46:47 - Workers: 1 | App: noop | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+02:48:09 - Workers: 1 | App: noop | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+02:48:48 - Workers: 1 | App: noop | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+02:49:29 - Workers: 1 | App: noop | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+02:50:09 - Workers: 1 | App: noop | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+02:50:51 - Workers: 1 | App: noop | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+02:51:30 - Workers: 1 | App: noop | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+02:52:11 - Workers: 1 | App: noop | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+02:52:51 - Workers: 1 | App: noop | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+02:53:33 - Workers: 1 | App: noop | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+02:54:13 - Workers: 1 | App: noop | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+02:54:53 - Workers: 1 | App: noop | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+02:55:33 - Workers: 1 | App: noop | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+02:56:14 - Workers: 1 | App: noop | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+02:56:53 - Workers: 1 | App: noop | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+02:57:33 - Workers: 1 | App: noop | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+02:58:14 - Workers: 1 | App: noop | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+02:58:56 - Workers: 1 | App: noop | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+02:59:37 - Workers: 1 | App: noop | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+03:00:16 - Workers: 1 | App: noop | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+03:00:56 - Workers: 1 | App: noop | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+03:01:38 - Workers: 1 | App: noop | Total Requests: 150000 | Request concurrency: 1024
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+03:02:24 - Workers: 1 | App: noop | Total Requests: 150000 | Request concurrency: 1024
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+03:03:10 - Workers: 1 | App: noop | Total Requests: 150000 | Request concurrency: 1024
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+03:03:51 - Workers: 1 | App: noop | Total Requests: 150000 | Request concurrency: 1024
+Stopping Monitoring script on host node0
+Compute the min, max, average of CPU, Memory Usage
+
+Stopping Faasm on host node0...DONE
+Creating network graph using gnuplot for a single configuration
+
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+03:05:15 - Workers: 4 | App: noop | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+03:07:41 - Workers: 4 | App: noop | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+03:10:06 - Workers: 4 | App: noop | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+03:12:27 - Workers: 4 | App: noop | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+03:14:57 - Workers: 4 | App: noop | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+03:16:44 - Workers: 4 | App: noop | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+03:18:32 - Workers: 4 | App: noop | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+03:20:20 - Workers: 4 | App: noop | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+03:22:08 - Workers: 4 | App: noop | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+03:23:36 - Workers: 4 | App: noop | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+03:25:06 - Workers: 4 | App: noop | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+03:26:38 - Workers: 4 | App: noop | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+03:28:09 - Workers: 4 | App: noop | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+03:28:54 - Workers: 4 | App: noop | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+03:29:40 - Workers: 4 | App: noop | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+03:30:26 - Workers: 4 | App: noop | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+03:31:13 - Workers: 4 | App: noop | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+03:31:59 - Workers: 4 | App: noop | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+03:32:44 - Workers: 4 | App: noop | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+03:33:28 - Workers: 4 | App: noop | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+03:34:16 - Workers: 4 | App: noop | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+03:35:01 - Workers: 4 | App: noop | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+03:35:46 - Workers: 4 | App: noop | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+03:36:32 - Workers: 4 | App: noop | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+03:37:19 - Workers: 4 | App: noop | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+03:38:06 - Workers: 4 | App: noop | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+03:38:52 - Workers: 4 | App: noop | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+03:39:38 - Workers: 4 | App: noop | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+03:40:24 - Workers: 4 | App: noop | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+03:41:09 - Workers: 4 | App: noop | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+03:41:55 - Workers: 4 | App: noop | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+03:42:38 - Workers: 4 | App: noop | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+03:43:25 - Workers: 4 | App: noop | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+03:44:10 - Workers: 4 | App: noop | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+03:44:56 - Workers: 4 | App: noop | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+03:45:41 - Workers: 4 | App: noop | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+03:46:27 - Workers: 4 | App: noop | Total Requests: 150000 | Request concurrency: 1024
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+03:47:14 - Workers: 4 | App: noop | Total Requests: 150000 | Request concurrency: 1024
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+03:48:05 - Workers: 4 | App: noop | Total Requests: 150000 | Request concurrency: 1024
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+03:48:52 - Workers: 4 | App: noop | Total Requests: 150000 | Request concurrency: 1024
+Stopping Monitoring script on host node0
+Compute the min, max, average of CPU, Memory Usage
+
+Stopping Faasm on host node0...DONE
+Creating network graph using gnuplot for a single configuration
+
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+03:50:04 - Workers: 6 | App: noop | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+03:52:10 - Workers: 6 | App: noop | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+03:54:16 - Workers: 6 | App: noop | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+03:56:24 - Workers: 6 | App: noop | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+03:58:32 - Workers: 6 | App: noop | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+04:00:19 - Workers: 6 | App: noop | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+04:02:07 - Workers: 6 | App: noop | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+04:03:52 - Workers: 6 | App: noop | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+04:05:41 - Workers: 6 | App: noop | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+04:06:58 - Workers: 6 | App: noop | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+04:08:15 - Workers: 6 | App: noop | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+04:09:33 - Workers: 6 | App: noop | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+04:10:51 - Workers: 6 | App: noop | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+04:11:40 - Workers: 6 | App: noop | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+04:12:29 - Workers: 6 | App: noop | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+04:13:17 - Workers: 6 | App: noop | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+04:14:08 - Workers: 6 | App: noop | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+04:14:55 - Workers: 6 | App: noop | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+04:15:43 - Workers: 6 | App: noop | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+04:16:31 - Workers: 6 | App: noop | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+04:17:22 - Workers: 6 | App: noop | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+04:18:11 - Workers: 6 | App: noop | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+04:18:59 - Workers: 6 | App: noop | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+04:19:48 - Workers: 6 | App: noop | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+04:20:38 - Workers: 6 | App: noop | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+04:21:26 - Workers: 6 | App: noop | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+04:22:15 - Workers: 6 | App: noop | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+04:23:03 - Workers: 6 | App: noop | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+04:23:53 - Workers: 6 | App: noop | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+04:24:42 - Workers: 6 | App: noop | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+04:25:31 - Workers: 6 | App: noop | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+04:26:19 - Workers: 6 | App: noop | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+04:27:09 - Workers: 6 | App: noop | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+04:27:56 - Workers: 6 | App: noop | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+04:28:44 - Workers: 6 | App: noop | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+04:29:32 - Workers: 6 | App: noop | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+04:30:22 - Workers: 6 | App: noop | Total Requests: 150000 | Request concurrency: 1024
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+04:31:14 - Workers: 6 | App: noop | Total Requests: 150000 | Request concurrency: 1024
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+04:32:04 - Workers: 6 | App: noop | Total Requests: 150000 | Request concurrency: 1024
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+04:32:54 - Workers: 6 | App: noop | Total Requests: 150000 | Request concurrency: 1024
+Stopping Monitoring script on host node0
+Compute the min, max, average of CPU, Memory Usage
+
+Stopping Faasm on host node0...DONE
+Creating network graph using gnuplot for a single configuration
+
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+04:34:05 - Workers: 8 | App: noop | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+04:36:03 - Workers: 8 | App: noop | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+04:37:59 - Workers: 8 | App: noop | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+04:39:55 - Workers: 8 | App: noop | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+04:41:54 - Workers: 8 | App: noop | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+04:43:22 - Workers: 8 | App: noop | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+04:44:52 - Workers: 8 | App: noop | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+04:46:21 - Workers: 8 | App: noop | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+04:47:54 - Workers: 8 | App: noop | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+04:48:50 - Workers: 8 | App: noop | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+04:49:47 - Workers: 8 | App: noop | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+04:50:43 - Workers: 8 | App: noop | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+04:51:42 - Workers: 8 | App: noop | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+04:52:33 - Workers: 8 | App: noop | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+04:53:24 - Workers: 8 | App: noop | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+04:54:16 - Workers: 8 | App: noop | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+04:55:09 - Workers: 8 | App: noop | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+04:56:01 - Workers: 8 | App: noop | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+04:56:51 - Workers: 8 | App: noop | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+04:57:42 - Workers: 8 | App: noop | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+04:58:35 - Workers: 8 | App: noop | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+04:59:27 - Workers: 8 | App: noop | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+05:00:19 - Workers: 8 | App: noop | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+05:01:10 - Workers: 8 | App: noop | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+05:02:03 - Workers: 8 | App: noop | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+05:02:54 - Workers: 8 | App: noop | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+05:03:44 - Workers: 8 | App: noop | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+05:04:35 - Workers: 8 | App: noop | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+05:05:28 - Workers: 8 | App: noop | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+05:06:20 - Workers: 8 | App: noop | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+05:07:10 - Workers: 8 | App: noop | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+05:08:02 - Workers: 8 | App: noop | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+05:08:55 - Workers: 8 | App: noop | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+05:09:46 - Workers: 8 | App: noop | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+05:10:35 - Workers: 8 | App: noop | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+05:11:25 - Workers: 8 | App: noop | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+05:12:18 - Workers: 8 | App: noop | Total Requests: 150000 | Request concurrency: 1024
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+05:13:14 - Workers: 8 | App: noop | Total Requests: 150000 | Request concurrency: 1024
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+05:14:06 - Workers: 8 | App: noop | Total Requests: 150000 | Request concurrency: 1024
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+05:15:02 - Workers: 8 | App: noop | Total Requests: 150000 | Request concurrency: 1024
+Stopping Monitoring script on host node0
+Compute the min, max, average of CPU, Memory Usage
+
+Stopping Faasm on host node0...DONE
+Creating network graph using gnuplot for a single configuration
+
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+05:16:22 - Workers: 16 | App: noop | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+05:18:25 - Workers: 16 | App: noop | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+05:20:29 - Workers: 16 | App: noop | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+05:22:32 - Workers: 16 | App: noop | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+05:24:38 - Workers: 16 | App: noop | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+05:26:03 - Workers: 16 | App: noop | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+05:27:28 - Workers: 16 | App: noop | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+05:28:52 - Workers: 16 | App: noop | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+05:30:19 - Workers: 16 | App: noop | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+05:31:25 - Workers: 16 | App: noop | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+05:32:31 - Workers: 16 | App: noop | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+05:33:38 - Workers: 16 | App: noop | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+05:34:45 - Workers: 16 | App: noop | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+05:35:45 - Workers: 16 | App: noop | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+05:36:46 - Workers: 16 | App: noop | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+05:37:45 - Workers: 16 | App: noop | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+05:38:49 - Workers: 16 | App: noop | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+05:39:50 - Workers: 16 | App: noop | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+05:40:51 - Workers: 16 | App: noop | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+05:41:51 - Workers: 16 | App: noop | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+05:42:53 - Workers: 16 | App: noop | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+05:43:53 - Workers: 16 | App: noop | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+05:44:52 - Workers: 16 | App: noop | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+05:45:51 - Workers: 16 | App: noop | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+05:46:52 - Workers: 16 | App: noop | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+05:47:51 - Workers: 16 | App: noop | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+05:48:49 - Workers: 16 | App: noop | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+05:49:48 - Workers: 16 | App: noop | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+05:50:49 - Workers: 16 | App: noop | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+05:51:48 - Workers: 16 | App: noop | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+05:52:48 - Workers: 16 | App: noop | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+05:53:47 - Workers: 16 | App: noop | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+05:54:49 - Workers: 16 | App: noop | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+05:55:48 - Workers: 16 | App: noop | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+05:56:47 - Workers: 16 | App: noop | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+05:57:46 - Workers: 16 | App: noop | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+05:58:47 - Workers: 16 | App: noop | Total Requests: 150000 | Request concurrency: 1024
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+05:59:48 - Workers: 16 | App: noop | Total Requests: 150000 | Request concurrency: 1024
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+06:00:49 - Workers: 16 | App: noop | Total Requests: 150000 | Request concurrency: 1024
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+06:01:54 - Workers: 16 | App: noop | Total Requests: 150000 | Request concurrency: 1024
+Stopping Monitoring script on host node0
+Compute the min, max, average of CPU, Memory Usage
+
+Stopping Faasm on host node0...DONE
+Creating network graph using gnuplot for a single configuration
+
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+06:03:24 - Workers: 32 | App: noop | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+06:05:42 - Workers: 32 | App: noop | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+06:07:59 - Workers: 32 | App: noop | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+06:10:20 - Workers: 32 | App: noop | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+06:12:38 - Workers: 32 | App: noop | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+06:14:19 - Workers: 32 | App: noop | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+06:15:59 - Workers: 32 | App: noop | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+06:17:39 - Workers: 32 | App: noop | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+06:19:21 - Workers: 32 | App: noop | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+06:20:43 - Workers: 32 | App: noop | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+06:22:04 - Workers: 32 | App: noop | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+06:23:27 - Workers: 32 | App: noop | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+06:24:53 - Workers: 32 | App: noop | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+06:26:09 - Workers: 32 | App: noop | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+06:27:26 - Workers: 32 | App: noop | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+06:28:43 - Workers: 32 | App: noop | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+06:30:01 - Workers: 32 | App: noop | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+06:31:15 - Workers: 32 | App: noop | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+06:32:30 - Workers: 32 | App: noop | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+06:33:44 - Workers: 32 | App: noop | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+06:34:59 - Workers: 32 | App: noop | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+06:36:14 - Workers: 32 | App: noop | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+06:37:30 - Workers: 32 | App: noop | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+06:38:46 - Workers: 32 | App: noop | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+06:40:04 - Workers: 32 | App: noop | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+06:41:19 - Workers: 32 | App: noop | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+06:42:34 - Workers: 32 | App: noop | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+06:43:49 - Workers: 32 | App: noop | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+06:45:07 - Workers: 32 | App: noop | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+06:46:23 - Workers: 32 | App: noop | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+06:47:37 - Workers: 32 | App: noop | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+06:48:51 - Workers: 32 | App: noop | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+06:50:06 - Workers: 32 | App: noop | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+06:51:20 - Workers: 32 | App: noop | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+06:52:35 - Workers: 32 | App: noop | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+06:53:49 - Workers: 32 | App: noop | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+06:55:06 - Workers: 32 | App: noop | Total Requests: 150000 | Request concurrency: 1024
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+06:56:22 - Workers: 32 | App: noop | Total Requests: 150000 | Request concurrency: 1024
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+06:57:42 - Workers: 32 | App: noop | Total Requests: 150000 | Request concurrency: 1024
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+06:59:03 - Workers: 32 | App: noop | Total Requests: 150000 | Request concurrency: 1024
+Stopping Monitoring script on host node0
+Compute the min, max, average of CPU, Memory Usage
+
+Stopping Faasm on host node0...DONE
+Creating network graph using gnuplot for a single configuration
+
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+07:00:17 - Workers: 1 | App: hello | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+07:04:12 - Workers: 1 | App: hello | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+07:08:06 - Workers: 1 | App: hello | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+07:11:55 - Workers: 1 | App: hello | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+07:15:54 - Workers: 1 | App: hello | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+07:18:32 - Workers: 1 | App: hello | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+07:21:12 - Workers: 1 | App: hello | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+07:23:52 - Workers: 1 | App: hello | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+07:26:34 - Workers: 1 | App: hello | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+07:28:33 - Workers: 1 | App: hello | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+07:30:30 - Workers: 1 | App: hello | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+07:32:25 - Workers: 1 | App: hello | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+07:34:24 - Workers: 1 | App: hello | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+07:35:31 - Workers: 1 | App: hello | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+07:37:03 - Workers: 1 | App: hello | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+07:38:23 - Workers: 1 | App: hello | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+07:39:54 - Workers: 1 | App: hello | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+07:40:33 - Workers: 1 | App: hello | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+07:41:13 - Workers: 1 | App: hello | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+07:41:52 - Workers: 1 | App: hello | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+07:42:34 - Workers: 1 | App: hello | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+07:43:14 - Workers: 1 | App: hello | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+07:43:53 - Workers: 1 | App: hello | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+07:44:32 - Workers: 1 | App: hello | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+07:45:13 - Workers: 1 | App: hello | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+07:45:52 - Workers: 1 | App: hello | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+07:46:31 - Workers: 1 | App: hello | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+07:47:11 - Workers: 1 | App: hello | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+07:47:52 - Workers: 1 | App: hello | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+07:48:34 - Workers: 1 | App: hello | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+07:49:12 - Workers: 1 | App: hello | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+07:49:52 - Workers: 1 | App: hello | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+07:50:33 - Workers: 1 | App: hello | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+07:51:12 - Workers: 1 | App: hello | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+07:51:51 - Workers: 1 | App: hello | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+07:52:31 - Workers: 1 | App: hello | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+07:53:13 - Workers: 1 | App: hello | Total Requests: 150000 | Request concurrency: 1024
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+07:53:59 - Workers: 1 | App: hello | Total Requests: 150000 | Request concurrency: 1024
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+07:54:40 - Workers: 1 | App: hello | Total Requests: 150000 | Request concurrency: 1024
+Stopping Faasm on host node0...DONE
+Starting Faasm with 1 worker(s) on host node0...DONE
+07:55:22 - Workers: 1 | App: hello | Total Requests: 150000 | Request concurrency: 1024
+Stopping Monitoring script on host node0
+Compute the min, max, average of CPU, Memory Usage
+
+Stopping Faasm on host node0...DONE
+Creating network graph using gnuplot for a single configuration
+
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+07:56:43 - Workers: 4 | App: hello | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+07:59:07 - Workers: 4 | App: hello | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+08:01:32 - Workers: 4 | App: hello | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+08:03:56 - Workers: 4 | App: hello | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+08:06:22 - Workers: 4 | App: hello | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+08:08:09 - Workers: 4 | App: hello | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+08:09:56 - Workers: 4 | App: hello | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+08:11:44 - Workers: 4 | App: hello | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+08:13:33 - Workers: 4 | App: hello | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+08:14:57 - Workers: 4 | App: hello | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+08:16:27 - Workers: 4 | App: hello | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+08:17:55 - Workers: 4 | App: hello | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+08:19:28 - Workers: 4 | App: hello | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+08:20:13 - Workers: 4 | App: hello | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+08:20:59 - Workers: 4 | App: hello | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+08:21:45 - Workers: 4 | App: hello | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+08:22:32 - Workers: 4 | App: hello | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+08:23:16 - Workers: 4 | App: hello | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+08:24:02 - Workers: 4 | App: hello | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+08:24:46 - Workers: 4 | App: hello | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+08:25:34 - Workers: 4 | App: hello | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+08:26:17 - Workers: 4 | App: hello | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+08:27:02 - Workers: 4 | App: hello | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+08:27:47 - Workers: 4 | App: hello | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+08:28:35 - Workers: 4 | App: hello | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+08:29:19 - Workers: 4 | App: hello | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+08:30:03 - Workers: 4 | App: hello | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+08:30:48 - Workers: 4 | App: hello | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+08:31:34 - Workers: 4 | App: hello | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+08:32:17 - Workers: 4 | App: hello | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+08:33:01 - Workers: 4 | App: hello | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+08:33:45 - Workers: 4 | App: hello | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+08:34:32 - Workers: 4 | App: hello | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+08:35:16 - Workers: 4 | App: hello | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+08:36:00 - Workers: 4 | App: hello | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+08:36:46 - Workers: 4 | App: hello | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+08:37:33 - Workers: 4 | App: hello | Total Requests: 150000 | Request concurrency: 1024
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+08:38:17 - Workers: 4 | App: hello | Total Requests: 150000 | Request concurrency: 1024
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+08:39:07 - Workers: 4 | App: hello | Total Requests: 150000 | Request concurrency: 1024
+Stopping Faasm on host node0...DONE
+Starting Faasm with 4 worker(s) on host node0...DONE
+08:39:53 - Workers: 4 | App: hello | Total Requests: 150000 | Request concurrency: 1024
+Stopping Monitoring script on host node0
+Compute the min, max, average of CPU, Memory Usage
+
+Stopping Faasm on host node0...DONE
+Creating network graph using gnuplot for a single configuration
+
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+08:41:04 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+08:43:11 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+08:45:19 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+08:47:24 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+08:49:33 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+08:51:19 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+08:53:05 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+08:54:50 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+08:56:38 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+08:57:55 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+08:59:12 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+09:00:29 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+09:01:50 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+09:02:38 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+09:03:26 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+09:04:15 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+09:05:06 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+09:05:54 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+09:06:42 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+09:07:29 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+09:08:19 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+09:09:07 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+09:09:55 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+09:10:43 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+09:11:33 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+09:12:21 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+09:13:09 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+09:13:57 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+09:14:47 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+09:15:33 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+09:16:21 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+09:17:08 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+09:17:57 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+09:18:45 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+09:19:33 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+09:20:20 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+09:21:09 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 1024
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+09:22:02 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 1024
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+09:22:51 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 1024
+Stopping Faasm on host node0...DONE
+Starting Faasm with 6 worker(s) on host node0...DONE
+09:23:39 - Workers: 6 | App: hello | Total Requests: 150000 | Request concurrency: 1024
+Stopping Monitoring script on host node0
+Compute the min, max, average of CPU, Memory Usage
+
+Stopping Faasm on host node0...DONE
+Creating network graph using gnuplot for a single configuration
+
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+09:24:54 - Workers: 8 | App: hello | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+09:26:50 - Workers: 8 | App: hello | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+09:28:47 - Workers: 8 | App: hello | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+09:30:44 - Workers: 8 | App: hello | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+09:32:44 - Workers: 8 | App: hello | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+09:34:15 - Workers: 8 | App: hello | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+09:35:44 - Workers: 8 | App: hello | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+09:37:14 - Workers: 8 | App: hello | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+09:38:47 - Workers: 8 | App: hello | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+09:39:46 - Workers: 8 | App: hello | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+09:40:43 - Workers: 8 | App: hello | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+09:41:39 - Workers: 8 | App: hello | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+09:42:38 - Workers: 8 | App: hello | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+09:43:29 - Workers: 8 | App: hello | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+09:44:21 - Workers: 8 | App: hello | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+09:45:14 - Workers: 8 | App: hello | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+09:46:06 - Workers: 8 | App: hello | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+09:46:56 - Workers: 8 | App: hello | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+09:47:47 - Workers: 8 | App: hello | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+09:48:38 - Workers: 8 | App: hello | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+09:49:30 - Workers: 8 | App: hello | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+09:50:20 - Workers: 8 | App: hello | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+09:51:12 - Workers: 8 | App: hello | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+09:52:02 - Workers: 8 | App: hello | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+09:52:54 - Workers: 8 | App: hello | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+09:53:45 - Workers: 8 | App: hello | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+09:54:36 - Workers: 8 | App: hello | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+09:55:27 - Workers: 8 | App: hello | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+09:56:20 - Workers: 8 | App: hello | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+09:57:09 - Workers: 8 | App: hello | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+09:58:00 - Workers: 8 | App: hello | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+09:58:52 - Workers: 8 | App: hello | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+09:59:44 - Workers: 8 | App: hello | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+10:00:34 - Workers: 8 | App: hello | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+10:01:24 - Workers: 8 | App: hello | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+10:02:13 - Workers: 8 | App: hello | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+10:03:04 - Workers: 8 | App: hello | Total Requests: 150000 | Request concurrency: 1024
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+10:03:59 - Workers: 8 | App: hello | Total Requests: 150000 | Request concurrency: 1024
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+10:04:54 - Workers: 8 | App: hello | Total Requests: 150000 | Request concurrency: 1024
+Stopping Faasm on host node0...DONE
+Starting Faasm with 8 worker(s) on host node0...DONE
+10:05:46 - Workers: 8 | App: hello | Total Requests: 150000 | Request concurrency: 1024
+Stopping Monitoring script on host node0
+Compute the min, max, average of CPU, Memory Usage
+
+Stopping Faasm on host node0...DONE
+Creating network graph using gnuplot for a single configuration
+
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+10:07:06 - Workers: 16 | App: hello | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+10:09:10 - Workers: 16 | App: hello | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+10:11:14 - Workers: 16 | App: hello | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+10:13:19 - Workers: 16 | App: hello | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+10:15:24 - Workers: 16 | App: hello | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+10:16:49 - Workers: 16 | App: hello | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+10:18:14 - Workers: 16 | App: hello | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+10:19:38 - Workers: 16 | App: hello | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+10:21:04 - Workers: 16 | App: hello | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+10:22:11 - Workers: 16 | App: hello | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+10:23:18 - Workers: 16 | App: hello | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+10:24:25 - Workers: 16 | App: hello | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+10:25:33 - Workers: 16 | App: hello | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+10:26:34 - Workers: 16 | App: hello | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+10:27:33 - Workers: 16 | App: hello | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+10:28:34 - Workers: 16 | App: hello | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+10:29:36 - Workers: 16 | App: hello | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+10:30:36 - Workers: 16 | App: hello | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+10:31:35 - Workers: 16 | App: hello | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+10:32:35 - Workers: 16 | App: hello | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+10:33:34 - Workers: 16 | App: hello | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+10:34:33 - Workers: 16 | App: hello | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+10:35:31 - Workers: 16 | App: hello | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+10:36:29 - Workers: 16 | App: hello | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+10:37:30 - Workers: 16 | App: hello | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+10:38:29 - Workers: 16 | App: hello | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+10:39:29 - Workers: 16 | App: hello | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+10:40:29 - Workers: 16 | App: hello | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+10:41:31 - Workers: 16 | App: hello | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+10:42:30 - Workers: 16 | App: hello | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+10:43:30 - Workers: 16 | App: hello | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+10:44:28 - Workers: 16 | App: hello | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+10:45:30 - Workers: 16 | App: hello | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+10:46:29 - Workers: 16 | App: hello | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+10:47:28 - Workers: 16 | App: hello | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+10:48:27 - Workers: 16 | App: hello | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+10:49:29 - Workers: 16 | App: hello | Total Requests: 150000 | Request concurrency: 1024
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+10:50:34 - Workers: 16 | App: hello | Total Requests: 150000 | Request concurrency: 1024
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+10:51:40 - Workers: 16 | App: hello | Total Requests: 150000 | Request concurrency: 1024
+Stopping Faasm on host node0...DONE
+Starting Faasm with 16 worker(s) on host node0...DONE
+10:52:45 - Workers: 16 | App: hello | Total Requests: 150000 | Request concurrency: 1024
+Stopping Monitoring script on host node0
+Compute the min, max, average of CPU, Memory Usage
+
+Stopping Faasm on host node0...DONE
+Creating network graph using gnuplot for a single configuration
+
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+10:54:10 - Workers: 32 | App: hello | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+10:56:27 - Workers: 32 | App: hello | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+10:58:43 - Workers: 32 | App: hello | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+11:01:00 - Workers: 32 | App: hello | Total Requests: 150000 | Request concurrency: 2
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+11:03:19 - Workers: 32 | App: hello | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+11:04:59 - Workers: 32 | App: hello | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+11:06:38 - Workers: 32 | App: hello | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+11:08:16 - Workers: 32 | App: hello | Total Requests: 150000 | Request concurrency: 4
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+11:09:58 - Workers: 32 | App: hello | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+11:11:20 - Workers: 32 | App: hello | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+11:12:43 - Workers: 32 | App: hello | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+11:14:03 - Workers: 32 | App: hello | Total Requests: 150000 | Request concurrency: 8
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+11:15:28 - Workers: 32 | App: hello | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+11:16:44 - Workers: 32 | App: hello | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+11:17:58 - Workers: 32 | App: hello | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+11:19:16 - Workers: 32 | App: hello | Total Requests: 150000 | Request concurrency: 16
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+11:20:35 - Workers: 32 | App: hello | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+11:21:48 - Workers: 32 | App: hello | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+11:23:02 - Workers: 32 | App: hello | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+11:24:17 - Workers: 32 | App: hello | Total Requests: 150000 | Request concurrency: 32
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+11:25:33 - Workers: 32 | App: hello | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+11:26:48 - Workers: 32 | App: hello | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+11:28:03 - Workers: 32 | App: hello | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+11:29:18 - Workers: 32 | App: hello | Total Requests: 150000 | Request concurrency: 64
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+11:30:36 - Workers: 32 | App: hello | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+11:31:52 - Workers: 32 | App: hello | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+11:33:09 - Workers: 32 | App: hello | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+11:34:25 - Workers: 32 | App: hello | Total Requests: 150000 | Request concurrency: 128
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+11:35:43 - Workers: 32 | App: hello | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+11:36:59 - Workers: 32 | App: hello | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+11:38:13 - Workers: 32 | App: hello | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+11:39:28 - Workers: 32 | App: hello | Total Requests: 150000 | Request concurrency: 256
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+11:40:44 - Workers: 32 | App: hello | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+11:42:01 - Workers: 32 | App: hello | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+11:43:16 - Workers: 32 | App: hello | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+11:44:29 - Workers: 32 | App: hello | Total Requests: 150000 | Request concurrency: 512
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+11:45:46 - Workers: 32 | App: hello | Total Requests: 150000 | Request concurrency: 1024
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+11:47:03 - Workers: 32 | App: hello | Total Requests: 150000 | Request concurrency: 1024
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+11:48:19 - Workers: 32 | App: hello | Total Requests: 150000 | Request concurrency: 1024
+Stopping Faasm on host node0...DONE
+Starting Faasm with 32 worker(s) on host node0...DONE
+11:49:36 - Workers: 32 | App: hello | Total Requests: 150000 | Request concurrency: 1024
+Stopping Monitoring script on host node0
+Compute the min, max, average of CPU, Memory Usage
+
+Stopping Faasm on host node0...DONE
+Creating network graph using gnuplot for a single configuration
+
+Creating RPS vs core graphs for all configurations per application
+Creating RPS graph to compare all apps

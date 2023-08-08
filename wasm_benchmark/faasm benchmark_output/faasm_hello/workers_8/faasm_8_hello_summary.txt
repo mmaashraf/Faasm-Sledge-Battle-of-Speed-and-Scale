@@ -1,0 +1,136 @@
+07:28:02 - Workers: 8 | App: hello | Total Requests: 100000 | Request concurrency: 4
+Time taken for tests: 225.414 seconds
+Requests per second: 443.87 [#/sec]
+Time per request: 18.024 [ms]
+Time per request (across all concurrent requests): 9.011 [ms]
+Transfer rate: 312222 [Kbytes/sec] received
+
+07:32:33 - Workers: 8 | App: hello | Total Requests: 100000 | Request concurrency: 8
+Time taken for tests: 122.612 seconds
+Requests per second: 816.44 [#/sec]
+Time per request: 19.597 [ms]
+Time per request (across all concurrent requests): 4.899 [ms]
+Transfer rate: 574287 [Kbytes/sec] received
+
+07:35:23 - Workers: 8 | App: hello | Total Requests: 100000 | Request concurrency: 12
+Time taken for tests: 90.136 seconds
+Requests per second: 1109.84 [#/sec]
+Time per request: 21.624 [ms]
+Time per request (across all concurrent requests): 3.604 [ms]
+Transfer rate: 780667 [Kbytes/sec] received
+
+07:37:40 - Workers: 8 | App: hello | Total Requests: 100000 | Request concurrency: 16
+Time taken for tests: 77.804 seconds
+Requests per second: 1286.15 [#/sec]
+Time per request: 24.881 [ms]
+Time per request (across all concurrent requests): 3.11 [ms]
+Transfer rate: 904681 [Kbytes/sec] received
+
+07:39:45 - Workers: 8 | App: hello | Total Requests: 100000 | Request concurrency: 20
+Time taken for tests: 73.536 seconds
+Requests per second: 1361.48 [#/sec]
+Time per request: 29.38 [ms]
+Time per request (across all concurrent requests): 2.938 [ms]
+Transfer rate: 957674 [Kbytes/sec] received
+
+07:41:46 - Workers: 8 | App: hello | Total Requests: 100000 | Request concurrency: 24
+Time taken for tests: 69.605 seconds
+Requests per second: 1437.38 [#/sec]
+Time per request: 33.394 [ms]
+Time per request (across all concurrent requests): 2.783 [ms]
+Transfer rate: 1.01105e+06 [Kbytes/sec] received
+
+07:43:42 - Workers: 8 | App: hello | Total Requests: 100000 | Request concurrency: 28
+Time taken for tests: 68.424 seconds
+Requests per second: 1463.86 [#/sec]
+Time per request: 38.255 [ms]
+Time per request (across all concurrent requests): 2.732 [ms]
+Transfer rate: 1.02969e+06 [Kbytes/sec] received
+
+07:45:37 - Workers: 8 | App: hello | Total Requests: 100000 | Request concurrency: 32
+Time taken for tests: 68.187 seconds
+Requests per second: 1466.8 [#/sec]
+Time per request: 43.633 [ms]
+Time per request (across all concurrent requests): 2.727 [ms]
+Transfer rate: 1.03175e+06 [Kbytes/sec] received
+
+07:47:32 - Workers: 8 | App: hello | Total Requests: 100000 | Request concurrency: 36
+Time taken for tests: 66.090 seconds
+Requests per second: 1513.87 [#/sec]
+Time per request: 47.56 [ms]
+Time per request (across all concurrent requests): 2.642 [ms]
+Transfer rate: 1.06487e+06 [Kbytes/sec] received
+
+07:49:25 - Workers: 8 | App: hello | Total Requests: 100000 | Request concurrency: 40
+Time taken for tests: 66.625 seconds
+Requests per second: 1500.96 [#/sec]
+Time per request: 53.299 [ms]
+Time per request (across all concurrent requests): 2.664 [ms]
+Transfer rate: 1.05578e+06 [Kbytes/sec] received
+
+07:51:20 - Workers: 8 | App: hello | Total Requests: 100000 | Request concurrency: 44
+Time taken for tests: 0 seconds
+Requests per second: 0 [#/sec]
+Time per request: 0 [ms]
+Time per request (across all concurrent requests): 0 [ms]
+Transfer rate: 0 [Kbytes/sec] received
+
+*********** Summary over 6605 observations  ************
+Min of CPU: 94.12%
+Max of CPU: 799.97%
+Avg of CPU: 776.92%
+Min of Virt Mem: 2212.90 Mb
+Max of Virt Mem: 527570.60 Mb
+Avg of Virt Mem: 397472.00 Mb
+Min of Phys Mem: 53.90 Mb
+Max of Phys Mem: 1357.85 Mb
+Avg of Phys Mem: 855.31 Mb
+
+Concurrency 4
+	CPU Min/Max/Avg: 94.44% / 799.95% / 790.81%
+	VMem Min/Max/Avg: 3197.15 Mb / 385737.10 Mb / 348674.82 Mb
+	PMem Min/Max/Avg: 56.05 Mb / 900.86 Mb / 862.01 Mb
+Concurrency 8
+	CPU Min/Max/Avg: 100.00% / 799.94% / 782.23%
+	VMem Min/Max/Avg: 3197.15 Mb / 480031.80 Mb / 404658.14 Mb
+	PMem Min/Max/Avg: 56.24 Mb / 993.13 Mb / 861.40 Mb
+Concurrency 12
+	CPU Min/Max/Avg: 100.00% / 799.95% / 779.13%
+	VMem Min/Max/Avg: 3197.15 Mb / 503670.30 Mb / 428004.35 Mb
+	PMem Min/Max/Avg: 56.27 Mb / 1013.42 Mb / 859.94 Mb
+Concurrency 16
+	CPU Min/Max/Avg: 100.00% / 799.97% / 772.77%
+	VMem Min/Max/Avg: 3197.15 Mb / 503481.40 Mb / 416059.05 Mb
+	PMem Min/Max/Avg: 56.40 Mb / 1094.89 Mb / 845.91 Mb
+Concurrency 20
+	CPU Min/Max/Avg: 94.12% / 799.89% / 770.29%
+	VMem Min/Max/Avg: 2212.90 Mb / 504300.80 Mb / 417633.52 Mb
+	PMem Min/Max/Avg: 53.90 Mb / 983.72 Mb / 850.40 Mb
+Concurrency 24
+	CPU Min/Max/Avg: 195.00% / 799.92% / 781.73%
+	VMem Min/Max/Avg: 5410.05 Mb / 504299.30 Mb / 420170.29 Mb
+	PMem Min/Max/Avg: 110.10 Mb / 954.28 Mb / 861.96 Mb
+Concurrency 28
+	CPU Min/Max/Avg: 94.12% / 799.94% / 763.59%
+	VMem Min/Max/Avg: 2212.90 Mb / 503389.50 Mb / 406502.22 Mb
+	PMem Min/Max/Avg: 53.91 Mb / 1292.31 Mb / 823.23 Mb
+Concurrency 32
+	CPU Min/Max/Avg: 100.00% / 799.91% / 765.49%
+	VMem Min/Max/Avg: 3197.15 Mb / 505396.00 Mb / 412284.95 Mb
+	PMem Min/Max/Avg: 56.37 Mb / 1174.89 Mb / 841.80 Mb
+Concurrency 36
+	CPU Min/Max/Avg: 100.00% / 799.91% / 775.37%
+	VMem Min/Max/Avg: 3197.15 Mb / 503665.20 Mb / 417186.52 Mb
+	PMem Min/Max/Avg: 56.21 Mb / 1046.78 Mb / 872.86 Mb
+Concurrency 40
+	CPU Min/Max/Avg: 94.12% / 799.92% / 768.55%
+	VMem Min/Max/Avg: 3197.15 Mb / 527570.60 Mb / 427802.15 Mb
+	PMem Min/Max/Avg: 56.31 Mb / 971.90 Mb / 859.51 Mb
+Concurrency 44
+	CPU Min/Max/Avg: 169.74% / 792.70% / 735.47%
+	VMem Min/Max/Avg: 3319.81 Mb / 501786.90 Mb / 321852.35 Mb
+	PMem Min/Max/Avg: 74.79 Mb / 1357.85 Mb / 843.32 Mb
+
+
+
+
